@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+<teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title> Queen songs </title>
+            <respStmt>
+                <resp>compiled by</resp>
+                <name>Yarden Vaknin</name>
+                <name>Alexander Mongait</name>           
+            </respStmt>
+        </titleStmt>
+        <publicationStmt>
+            <publisher> AZlyrics </publisher>
+            <pubPlace ref = "https://www.azlyrics.com/lyrics/queen/doingallright.html"> Azlyrics Website </pubPlace>
+        </publicationStmt>
+        
+        <sourceDesc>
+            <bibl>
+                <title level="j">Doing All Right</title>
+                <author> Brian May</author>
+                <publisher> Queen at Queen Album </publisher>
+                <date>1973</date>                   
+            </bibl>    
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+
+<text>
+    <body>
+        
+        <p xml:id="copulet1"> 
+        Yesterday my life was in ruin
+        Now today I know what I'm doing
+        Got a feeling I should be doing all right
+        Doing all right
+    </p>
+           
+        <p xml:id="stanza1">    
+        Where will I be this time tomorrow?
+        Jumped in joy or sinking in sorrow
+        Anyway I should be doing all right
+        Doing all right
+    </p>
+        
+        <p xml:id="stanza2">     
+        Should be waiting for the sun
+        Looking 'round to find the words to say
+        Should be waiting for the skies to clear
+        There ain't time in all the world
+    </p>
+        
+        <p xml:id="stanza3">     
+        Should be waiting for the sun
+        And anyway, I got to hide away
+    </p>
+        
+        <p xml:id="copulet2">     
+        Yesterday my life was in ruin
+        Now today God knows what I'm doing
+        Anyway I should be doing all right
+        Doing all right
+    </p>
+        
+    <p>      
+    Doing all right
+    </p>
+         
+    </body>
+</text>  
+</TEI>
