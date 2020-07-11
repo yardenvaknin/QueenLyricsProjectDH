@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">  
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Queen songs </title>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>Yarden Vaknin</name>
+                    <name>Alexander Mongait</name>           
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher> AZlyrics </publisher>
+                <pubPlace ref = "https://www.azlyrics.com/lyrics/queen/keepyourselfalive.html"> Azlyrics Website </pubPlace>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <bibl>
+                    <title level="j">Keep Yourself Alive</title>
+                    <author> Brian May</author>
+                    <publisher> Queen at Queen Album </publisher>
+                    <date>1973</date>                   
+                </bibl>    
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>  
+    <text>
+        <body>
+        <head>"Keep Yourself Alive"</head>
+ 
+        <p xml:id="stanza1">
+        I was told a million times
+        Of all the troubles in my way
+        Mind you grow a little wiser
+        Little better every day  
+        </p>            
+
+        <p xml:id="stanza2">
+          But if I crossed a million rivers
+          And I rode a million miles
+          Then I'd still be where I started
+          Bread and butter for a smile  
+        </p> 
+
+         <p xml:id="stanza3"> 
+            Well I sold a million mirrors
+            In a shop in Alley Way
+            But I never saw my face
+            In any window any day       
+         </p>
+
+         <p xml:id="stanza4">
+            Now they say your folks are telling you
+            Be a super star
+            But I tell you just be satisfied
+            Stay right where you are           
+        </p>
+            
+         <p xml:id="copulet1">              
+            Keep yourself alive
+            Keep yourself alive
+            It'll take you all your time and a money
+            Honey you'll survive
+         </p> 
+            
+         <p xml:id="stanza5">
+            Well I've loved a million women
+            In a belladonnic haze
+            And I ate a million dinners
+            Brought to me on silver trays                                    
+         </p>   
+
+         <p xml:id="stanza6">            
+            Give me everything I need
+            To feed my body and my soul
+            Well I'll grow a little bigger
+            Maybe that can be my goal
+         </p>   
+            
+         <p xml:id="stanza7">              
+            I was told a million times
+            Of all the people in my way
+            How I had to keep on trying
+            And get better every day
+         </p>
+            
+          <p xml:id="stanza8">
+            But if I crossed a million rivers
+            And I rode a million miles
+            Then I'd still be where I started
+            Same as when I started</p>
+            
+          <p xml:id="copulet2">            
+            Keep yourself alive
+            Come on
+            Keep yourself alive
+            It'll take you all your time and a money
+            Honey you'll survive
+                      
+            Shake
+            </p>
+            
+        <p xml:id="copulet3">             
+            Keep yourself alive
+            Keep yourself alive
+            It'll take you all your time and a money
+            To keep me satisfied
+           </p> 
+
+          <p>  
+              Do you think you're better every day
+              No, I just think I'm two steps nearer to my grave
+          </p>
+
+        <p xml:id="copulet4">             
+            Keep yourself alive
+            Come on
+            Keep yourself alive
+            You take your time and take more money
+            Keep yourself alive
+            </p>
+            
+          <p xml:id="copulet5">              
+            Keep yourself alive
+            Come on
+            Keep yourself alive
+            All you people keep yourself alive
+          </p>
+            
+          <p xml:id="copulet6">     
+            Keep yourself alive
+            Come on
+            Come on
+            Keep yourself alive
+            It'll take you all your time and a money
+            To keep me satisfied
+          </p>
+            
+            <p xml:id="copulet7">              
+            Keep yourself alive
+            Keep yourself alive
+            All you people keep yourself alive
+            </p>
+            
+            <p>
+            Take you all your time and money
+            Honey you will survive    
+            </p> 
+
+            <p>
+             Keep you satisfied
+             Keep you satisfied
+                
+            </p>
+
+        
+    </body>
+    </text>
+</TEI>    
+
