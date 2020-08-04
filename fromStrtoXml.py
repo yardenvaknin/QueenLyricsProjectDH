@@ -15,8 +15,6 @@ def prettify(elem):
 #create xml file with TEI format as we learned at the course
 def createFile(path,songName,albumName,lyrics,songWriter,yearOfAlbum,url):
     top = Element('TEI',xmlns='http://www.tei-c.org/ns/1.0')
-    #comment = Comment('Digital Humanities Work')
-    #top.append(comment)
     teiHeader = SubElement(top, 'teiHeader')
     fileDesc = SubElement(teiHeader,'fileDesc')
     titleStmt = SubElement(fileDesc,'titleStmt')
@@ -58,14 +56,7 @@ def createFile(path,songName,albumName,lyrics,songWriter,yearOfAlbum,url):
         for line in range(0,len(lines)):
             l = SubElement(p,'l')
             l.text = lines[line]    
-    #title = SubElement ()
 
-#    child_with_tail = SubElement(top, 'child_with_tail')
- #   child_with_tail.text = 'This child has regular text.'
-  #  child_with_tail.tail = 'And "tail" text.'
-
-   # child_with_entity_ref = SubElement(top, 'child_with_entity_ref')
-   # child_with_entity_ref.text = 'This & that'
    
     if not os.path.exists(os.path.dirname(path)):
         os.makedirs(os.path.dirname(path))
