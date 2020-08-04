@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The March Of The Black Queen song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/themarchoftheblackqueen.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The March Of The Black Queen</title>
+          <author>Writer(s): Bulsara Freddie</author>
+          <publisher>Album&quot;Queen II&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>The March Of The Black Queen</head>
+      <p>
+        <l>Do you mean it?</l>
+        <l>Do you mean it?</l>
+        <l>Do you mean it?</l>
+        <l>Why don't you mean it?</l>
+        <l>Why do I follow you and where do you go?</l>
+      </p>
+      <p>
+        <l>You've never seen nothing like it</l>
+        <l>No, never in your life</l>
+        <l>Like going up to heaven</l>
+        <l>And then coming back alive</l>
+      </p>
+      <p>
+        <l>Let me tell you all about it</l>
+        <l>And the world will so allow it</l>
+        <l>Ooh, give me a little time to choose</l>
+      </p>
+      <p>
+        <l>Water babies singing in a lily-pool delight</l>
+        <l>Blue powder monkeys praying in the dead of night</l>
+      </p>
+      <p>
+        <l>Here comes the black queen, poking in the pile</l>
+        <l>Fie-fo the black queen, marching single file</l>
+      </p>
+      <p>
+        <l>Take this, take that</l>
+        <l>Bring them down to size</l>
+        <l>March to the black queen</l>
+      </p>
+      <p>
+        <l>Put them in the cellar with the naughty boys</l>
+        <l>A little nigger sugar then a rub-a dub-a baby oil</l>
+        <l>Black on, black on every finger nail and toe</l>
+        <l>We've only begun, begun</l>
+      </p>
+      <p>
+        <l>Make this, make that</l>
+        <l>Keep making all that noise</l>
+        <l>March to the black queen</l>
+      </p>
+      <p>
+        <l>Now I've got a belly full</l>
+        <l>You can be my sugar baby</l>
+        <l>You can be my honey chile, yes</l>
+      </p>
+      <p>
+        <l>A voice from behind me reminds me</l>
+        <l>&quot;Spread out your wings. You are an angel</l>
+        <l>Remember to deliver with the speed of light</l>
+        <l>A little bit of love and joy</l>
+        <l>Everything you do bears a will and a why and a wherefore</l>
+        <l>A little bit of love and joy.&quot;</l>
+      </p>
+      <p>
+        <l>In each and every soul lies a man</l>
+        <l>And very soon he'll deceive and discover</l>
+        <l>But even 'til the end of his life</l>
+        <l>He'll bring a little love</l>
+      </p>
+      <p>
+        <l>I reign with my left hand</l>
+        <l>I rule with my right</l>
+        <l>I'm lord of all darkness</l>
+        <l>I'm queen of the night</l>
+        <l>I've got the power</l>
+        <l>Now do the march of the black queen</l>
+      </p>
+      <p>
+        <l>My life is in your hands</l>
+        <l>I'll fo and I'll fie</l>
+        <l>I'll be what you make me</l>
+        <l>I'll do what you like</l>
+        <l>I'll be your bad boy</l>
+        <l>I'll be your bad boy</l>
+        <l>I'll do the march of the black queen</l>
+      </p>
+      <p>
+        <l>Walking to the style</l>
+        <l>She's vulgar 'buse and vile</l>
+        <l>Fie-fo the black queen tattoos all her pies</l>
+        <l>She boils, and she bakes, and she never dots her Is</l>
+        <l>She's our leader</l>
+      </p>
+      <p>
+        <l>Forget your sing-alongs and your lullabies</l>
+        <l>Surrender to the city of the fireflies</l>
+        <l>Dance with the devil, beat with the band</l>
+        <l>To hell with all of you hand-in-hand</l>
+        <l>But now it's time to be gone forever</l>
+      </p>
+    </body>
+  </text>
+</TEI>

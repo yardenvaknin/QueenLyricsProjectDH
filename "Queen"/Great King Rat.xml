@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Great King Rat song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/greatkingrat.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Great King Rat</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album&quot;Queen&quot;</publisher>
+          <date>Album publication year: 1973</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Great King Rat</head>
+      <p>
+        <l>Great King Rat died today</l>
+      </p>
+      <p>
+        <l>Born on the twenty first of May</l>
+        <l>Died syphillis forty four on his birthday</l>
+        <l>Every second word he swore</l>
+        <l>Yes he was the son of a whore</l>
+        <l>Always wanted by the law</l>
+      </p>
+      <p>
+        <l>Wouldn't you like to know?</l>
+        <l>Wouldn't you like to know people?</l>
+        <l>Great King Rat was a dirty old man</l>
+        <l>And a dirty old man was he</l>
+        <l>Now what did I tell you</l>
+        <l>Would you like to see?</l>
+      </p>
+      <p>
+        <l>Where will I be tomorrow?</l>
+        <l>Will I beg or will I borrow?</l>
+        <l>I don't care I don't care anyway</l>
+        <l>Come on come on the time is right</l>
+        <l>The man is evil and that is right</l>
+        <l>I told you ah yes I told you</l>
+        <l>And that's no lie oh no no no</l>
+      </p>
+      <p>
+        <l>Wouldn't you like to know?</l>
+        <l>Wouldn't you like to know?</l>
+        <l>Wouldn't you like to know?</l>
+        <l>Great King Rat was a dirty old man</l>
+        <l>And a dirty old man was he</l>
+        <l>Now what did I tell you?</l>
+        <l>Would you like to see?</l>
+      </p>
+      <p>
+        <l>Show me</l>
+      </p>
+      <p>
+        <l>Wouldn't you like to know?</l>
+        <l>Wouldn't you like to know people?</l>
+        <l>Great King Rat was a dirty old man</l>
+        <l>And a dirty old man was he</l>
+        <l>Now what did I tell you?</l>
+        <l>Would you like to see?</l>
+      </p>
+      <p>
+        <l>Now listen all you people</l>
+        <l>Put out the good and keep the bad</l>
+        <l>Don't believe all you read in the Bible</l>
+        <l>You sinners get in line</l>
+        <l>Saints you leave far behind</l>
+        <l>Very soon you're gonna be his disciple</l>
+        <l>Don't listen to what mama says</l>
+        <l>Not a word not a word mama says</l>
+        <l>Or else you'll find yourself being the rival</l>
+        <l>The great Lord before He died</l>
+        <l>Knelt sinners by his side</l>
+        <l>And said you're gonna realize tomorrow</l>
+      </p>
+      <p>
+        <l>No I'm not gonna tell you</l>
+        <l>What you already know</l>
+        <l>'Cause time and time again</l>
+        <l>The old man said it all a long time ago</l>
+        <l>Come come on the time is right</l>
+        <l>This evil man will fight</l>
+        <l>I told you once before</l>
+      </p>
+      <p>
+        <l>Wouldn't you like to know?</l>
+        <l>Wouldn't you like to know?</l>
+        <l>Just like I said before</l>
+        <l>Great King Rat was a dirty old man</l>
+        <l>And a dirty old man was he</l>
+        <l>The last time I tell you?</l>
+        <l>Would you like to see?</l>
+      </p>
+    </body>
+  </text>
+</TEI>

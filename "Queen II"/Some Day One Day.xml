@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Some Day One Day song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/somedayoneday.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Some Day One Day</title>
+          <author>Writer(s): May Brian Harold</author>
+          <publisher>Album&quot;Queen II&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Some Day One Day</head>
+      <p>
+        <l>You never heard my song before the music was too loud</l>
+        <l>But now i think you hear me well for now we both know how</l>
+        <l>No star can light our way in this cloud of dark and fear</l>
+        <l>But some day, one day...</l>
+      </p>
+      <p>
+        <l>Funny how the pages turn and hold us in between</l>
+        <l>A misty castle waits for you and you shall be a queen</l>
+        <l>Today the cloud it hangs over us and all is grey</l>
+        <l>But some day, one day...</l>
+      </p>
+      <p>
+        <l>When i was you and you were me and we were very young</l>
+        <l>Together took us nearly there the rest may not be sung</l>
+        <l>So still the cloud it hangs over us and we're alone</l>
+        <l>But some day, one day...</l>
+        <l>We'll come home</l>
+      </p>
+    </body>
+  </text>
+</TEI>

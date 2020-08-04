@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ogre Battle song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/ogrebattle.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Ogre Battle</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album&quot;Queen II&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Ogre Battle</head>
+      <p>
+        <l>Now once upon a time - an old man told me a fable</l>
+        <l>When the piper is gone - and the soup is cold on your table</l>
+        <l>And if the black crow flies to find a new destination - that is the sign</l>
+        <l>Come tonight</l>
+        <l>Come to the ogre sight</l>
+        <l>Come to the ogre-battle-fight</l>
+      </p>
+      <p>
+        <l>He gives a great big cry and he can swallow up the ocean</l>
+        <l>With a mighty tongue he catches flies - the palm of his hand is incredible</l>
+        <l>One great big eye - has a focus in your direction</l>
+        <l>Now the battle is on</l>
+        <l>Yeah yeah yeah</l>
+        <l>Come tonight</l>
+        <l>Come to the ogre sight</l>
+        <l>Come to the ogre-battle-fight</l>
+      </p>
+      <p>
+        <l>The ogre men are still inside</l>
+        <l>The two-way mirror mountain</l>
+        <l>Gotta keep down right out of sight</l>
+        <l>You can't see in but they can see out</l>
+        <l>&quot;Keep a look out&quot;</l>
+        <l>The ogre-men are coming out</l>
+        <l>From the two-way mirror mountain</l>
+        <l>They're running up behind you and they're coming all about</l>
+        <l>Can't go east 'cos you gotta go south</l>
+      </p>
+      <p>
+        <l>Ogre-men are going home</l>
+        <l>And the great big fight is over</l>
+        <l>Bugle blow, the trumpet cry</l>
+        <l>Ogre battle lives for ever more</l>
+        <l>You can come along</l>
+        <l>You can come along</l>
+        <l>Come to ogre battle</l>
+      </p>
+    </body>
+  </text>
+</TEI>

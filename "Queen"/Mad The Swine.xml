@@ -1,0 +1,88 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mad The Swine song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/madtheswine.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Mad The Swine</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album&quot;Queen&quot;</publisher>
+          <date>Album publication year: 1973</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Mad The Swine</head>
+      <p>
+        <l>I've been there before</l>
+        <l>A long time ago</l>
+        <l>But this time I wear no sandals</l>
+        <l>Ages past I gave all you people</l>
+        <l>Food and water</l>
+        <l>Three feet tall, so very small</l>
+        <l>I'm no trouble</l>
+        <l>I bring thunder and lightning</l>
+        <l>Sun and the rain</l>
+        <l>For all the people in the land</l>
+        <l>A message of love</l>
+        <l>I bring you from up above</l>
+        <l>All you children gather around</l>
+        <l>Come join your hands and sing along</l>
+        <l>They call me mad the swine</l>
+        <l>I guess I'm mad the swine</l>
+        <l>I've come to save you</l>
+        <l>Save you</l>
+        <l>Mad the swine</l>
+        <l>Mad the swine</l>
+        <l>So all you people gather around</l>
+        <l>Hold out your hands and praise the lord</l>
+        <l>I walk upon the water</l>
+        <l>Just as before</l>
+        <l>I help the meek and the mild</l>
+        <l>The believers and the blind</l>
+        <l>And all the creatures great and small</l>
+        <l>Let me take you to the river</l>
+        <l>Without a fall</l>
+        <l>Then one day you'll realize</l>
+        <l>You're all the same within his eyes</l>
+        <l>That's all I've got to say</l>
+        <l>Just like before</l>
+        <l>They call me mad the swine</l>
+        <l>Mad the swine</l>
+        <l>Come to save you</l>
+        <l>Save you</l>
+        <l>Mad the swine</l>
+        <l>Mad the swine</l>
+        <l>So all you people gather around</l>
+        <l>Hold out your hands and praise the lord</l>
+        <l>So all you people gather around</l>
+        <l>Hold out your hands and praise the lord</l>
+        <l>Don't ever fail me</l>
+        <l>Mad the swine</l>
+        <l>Mad the swine</l>
+        <l>Come to save you</l>
+        <l>Save you</l>
+        <l>Mad the swine</l>
+        <l>Mad the swine</l>
+        <l>So all you people gather around</l>
+        <l>Hold out your hands and praise the lord</l>
+        <l>Hands and praise the lord</l>
+      </p>
+    </body>
+  </text>
+</TEI>

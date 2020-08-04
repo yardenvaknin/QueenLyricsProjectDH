@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Liar song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/liar.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Liar</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album&quot;Queen&quot;</publisher>
+          <date>Album publication year: 1973</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Liar</head>
+      <p>
+        <l>I have sinned dear Father Father I have sinned</l>
+        <l>Try and help me Father</l>
+        <l>Won't you let me in? Liar</l>
+        <l>Nobody believes me Liar</l>
+        <l>Why don't they leave me alone?</l>
+        <l>Sire I have stolen stolen many times</l>
+        <l>Raised my voice in anger</l>
+        <l>When I know I never should</l>
+        <l>Liar oh ev'rybody deceives me</l>
+        <l>Liar why don't you leave me alone?</l>
+      </p>
+      <p>
+        <l>Liar I have sailed the seas</l>
+        <l>Liar from Mars to Mercury</l>
+        <l>Liar I have drunk the wine</l>
+        <l>Liar time after time</l>
+        <l>Liar you're lying to me</l>
+        <l>Liar you're lying to me</l>
+        <l>Father please forgive me</l>
+        <l>You know you'll never leave me</l>
+        <l>Please will you direct me in the right way</l>
+        <l>Liar liar liar liar</l>
+        <l>Liar that's what they keep calling me</l>
+        <l>Liar liar liar</l>
+      </p>
+      <p>
+        <l>Listen are you gonna listen?</l>
+        <l>Mama I'm gonna be your slave</l>
+        <l>All day long</l>
+        <l>Mama I'm gonna try behave</l>
+        <l>All day long</l>
+        <l>Mama gonna be your slave</l>
+        <l>All day long</l>
+        <l>I'm gonna serve you till your dying day</l>
+        <l>All day long</l>
+        <l>I'm gonna keep you till you dying day</l>
+        <l>All day long</l>
+        <l>I'm gonna kneel down by your side and pray</l>
+        <l>All day long and pray</l>
+        <l>All day long and pray</l>
+        <l>All day long all day long all day long</l>
+        <l>All day long all day long all day long</l>
+      </p>
+      <p>
+        <l>All day long all day long all day long</l>
+        <l>Liar liar they never let you win</l>
+        <l>Liar liar everything you do is sin</l>
+        <l>Liar nobody believes you</l>
+        <l>Liar they bring you down before you begin</l>
+        <l>Now let me tell you this</l>
+        <l>Now you know you could be dead before they let you...</l>
+      </p>
+    </body>
+  </text>
+</TEI>

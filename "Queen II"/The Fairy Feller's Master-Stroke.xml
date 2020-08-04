@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Fairy Feller's Master-Stroke song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/thefairyfellersmasterstroke.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The Fairy Feller's Master-Stroke</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album&quot;Queen II&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>The Fairy Feller's Master-Stroke</head>
+      <p>
+        <l>He's a fairy feller</l>
+        <l>The fairy folk have gathered round the new moon shine</l>
+        <l>To see the feller crack a nut at night's noon time</l>
+        <l>To swing his axe he swears, as it climbs he dares</l>
+        <l>To deliver...</l>
+        <l>The Master-Stroke</l>
+      </p>
+      <p>
+        <l>Ploughman, &quot;Waggoner Will&quot;, and types</l>
+        <l>Politician with senatorial pipe - he's a dilly-dally-o</l>
+        <l>Pedagogue squinting, wears a frown</l>
+        <l>And a satyr peers under lady's gown, dirty fellow</l>
+        <l>What a dirty laddio</l>
+        <l>Tatterdemalion and a junketer</l>
+        <l>There's a thief and a dragonfly trumpeter - he's my hero</l>
+        <l>Fairy dandy tickling the fancy of his lady friend</l>
+        <l>The nymph in yellow &quot;can we see the Master-Stroke&quot;</l>
+        <l>What a quaere fellow</l>
+      </p>
+      <p>
+        <l>Soldier, sailor, tinker, tailor, ploughboy</l>
+        <l>Waiting to hear the sound</l>
+        <l>And the arch-magician presides</l>
+        <l>He is the leader</l>
+        <l>Oberon and titania watched by a harridan</l>
+        <l>Mab is the queen and there's a good apothecary-man</l>
+        <l>Come to say hello</l>
+        <l>Fairy dandy tickling the fancy of his lady friend</l>
+        <l>The nymph in yellow</l>
+        <l>What a quaere fellow</l>
+        <l>The ostler stares with hands on his knees</l>
+        <l>Come on Mr. Feller, crack it open if you please</l>
+      </p>
+    </body>
+  </text>
+</TEI>

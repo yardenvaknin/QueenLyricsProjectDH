@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>See What A Fool I've Been song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/seewhatafoolivebeen.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">See What A Fool I've Been</title>
+          <author>Writer(s): Brian May</author>
+          <publisher>Album&quot;Queen II&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>See What A Fool I've Been</head>
+      <p>
+        <l>Well she's gone, dear, gone this morning.</l>
+        <l>I wan' see what a fool I've been.</l>
+        <l>Oh, Lord, guilty, cruel.</l>
+        <l>Morning.</l>
+        <l>Fool I've been.</l>
+        <l>Yes, I did too much.</l>
+      </p>
+      <p>
+        <l>Didn't leave, didn't leave no letter.</l>
+        <l>Didn't leave no warning.</l>
+        <l>You are noticing.</l>
+        <l>I guess I'm all to blame.</l>
+        <l>Oh, Lord.</l>
+        <l>I guess I'm all to blame.</l>
+      </p>
+      <p>
+        <l>See you later.</l>
+        <l>Say...</l>
+        <l>Ciao.</l>
+        <l>...night.</l>
+        <l>Take it.</l>
+      </p>
+      <p>
+        <l>Oh, my little dog ain't too hungry.</l>
+        <l>No, no, he kept on barking.</l>
+        <l>The vicious thing just don't seem the same.</l>
+        <l>Oh, no, no.</l>
+        <l>Just.</l>
+        <l>Oh, don't be.</l>
+        <l>Said don't feel the same.</l>
+      </p>
+      <p>
+        <l>See you later.</l>
+        <l>Now hit it like that.</l>
+        <l>Coming up strong.</l>
+      </p>
+      <p>
+        <l>Well, I got so lonely.</l>
+        <l>Went and told my neighbor.</l>
+        <l>She said, &quot;Mm mm mm mm mm.&quot;</l>
+        <l>Oh, Lord, what a fool I've been.</l>
+      </p>
+      <p>
+        <l>And then she told what to do.</l>
+        <l>She said, &quot;Go home.&quot;</l>
+      </p>
+      <p>
+        <l>Well, she's gone, gone this morning.</l>
+        <l>See what a fool I've been.</l>
+        <l>Oh, Lord.</l>
+        <l>What a fool I've been.</l>
+        <l>Thank you.</l>
+      </p>
+    </body>
+  </text>
+</TEI>

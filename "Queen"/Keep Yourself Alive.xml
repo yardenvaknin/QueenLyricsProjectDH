@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Keep Yourself Alive song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/keepyourselfalive.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Keep Yourself Alive</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album&quot;Queen&quot;</publisher>
+          <date>Album publication year: 1973</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Keep Yourself Alive</head>
+      <p>
+        <l>I was told a million times</l>
+        <l>Of all the troubles in my way</l>
+        <l>Mind you grow a little wiser</l>
+        <l>Little better every day</l>
+      </p>
+      <p>
+        <l>But if I crossed a million rivers</l>
+        <l>And I rode a million miles</l>
+        <l>Then I'd still be where I started</l>
+        <l>Bread and butter for a smile</l>
+      </p>
+      <p>
+        <l>Well I sold a million mirrors</l>
+        <l>In a shop in Alley Way</l>
+        <l>But I never saw my face</l>
+        <l>In any window any day</l>
+      </p>
+      <p>
+        <l>Now they say your folks are telling you</l>
+        <l>Be a super star</l>
+        <l>But I tell you just be satisfied</l>
+        <l>Stay right where you are</l>
+      </p>
+      <p>
+        <l>Keep yourself alive</l>
+        <l>Keep yourself alive</l>
+        <l>It'll take you all your time and a money</l>
+        <l>Honey you'll survive</l>
+      </p>
+      <p>
+        <l>Well I've loved a million women</l>
+        <l>In a belladonnic haze</l>
+        <l>And I ate a million dinners</l>
+        <l>Brought to me on silver trays</l>
+      </p>
+      <p>
+        <l>Give me everything I need</l>
+        <l>To feed my body and my soul</l>
+        <l>Well I'll grow a little bigger</l>
+        <l>Maybe that can be my goal</l>
+      </p>
+      <p>
+        <l>I was told a million times</l>
+        <l>Of all the people in my way</l>
+        <l>How I had to keep on trying</l>
+        <l>And get better every day</l>
+      </p>
+      <p>
+        <l>But if I crossed a million rivers</l>
+        <l>And I rode a million miles</l>
+        <l>Then I'd still be where I started</l>
+        <l>Same as when I started</l>
+      </p>
+      <p>
+        <l>Keep yourself alive</l>
+        <l>Come on</l>
+        <l>Keep yourself alive</l>
+        <l>It'll take you all your time and a money</l>
+        <l>Honey you'll survive</l>
+      </p>
+      <p>
+        <l>Shake</l>
+      </p>
+      <p>
+        <l>Keep yourself alive</l>
+        <l>Keep yourself alive</l>
+        <l>It'll take you all your time and a money</l>
+        <l>To keep me satisfied</l>
+      </p>
+      <p>
+        <l>Do you think you're better every day</l>
+        <l>No, I just think I'm two steps nearer to my grave</l>
+      </p>
+      <p>
+        <l>Keep yourself alive</l>
+        <l>Come on</l>
+        <l>Keep yourself alive</l>
+        <l>You take your time and take more money</l>
+        <l>Keep yourself alive</l>
+      </p>
+      <p>
+        <l>Keep yourself alive</l>
+        <l>Come on</l>
+        <l>Keep yourself alive</l>
+        <l>All you people keep yourself alive</l>
+      </p>
+      <p>
+        <l>Keep yourself alive</l>
+        <l>Come on</l>
+        <l>Come on</l>
+        <l>Keep yourself alive</l>
+        <l>It'll take you all your time and a money</l>
+        <l>To keep me satisfied</l>
+      </p>
+      <p>
+        <l>Keep yourself alive</l>
+        <l>Keep yourself alive</l>
+        <l>All you people keep yourself alive</l>
+      </p>
+      <p>
+        <l>Take you all your time and money</l>
+        <l>Honey you will survive</l>
+      </p>
+      <p>
+        <l>Keep you satisfied</l>
+        <l>Keep you satisfied</l>
+      </p>
+    </body>
+  </text>
+</TEI>

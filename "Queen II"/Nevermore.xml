@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nevermore song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/nevermore.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Nevermore</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album&quot;Queen II&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Nevermore</head>
+      <p>
+        <l>There's no living in my life anymore</l>
+        <l>The seas have gone dry and the rain stopped falling</l>
+        <l>Please don't you cry anymore</l>
+        <l>Can't you see</l>
+        <l>Listen to the breeze, whisper to me please</l>
+        <l>Don't send me to the path of nevermore</l>
+      </p>
+      <p>
+        <l>Even the valleys below</l>
+        <l>Where the rays of the sun were so warm and tender</l>
+        <l>Now haven't anything to grow</l>
+        <l>Can't you see</l>
+        <l>Why did you have to leave me</l>
+        <l>Why did you deceive me</l>
+        <l>You send me to the path of nevermore</l>
+        <l>When you say you didn't love me anymore</l>
+        <l>Nevermore</l>
+        <l>Nevermore</l>
+      </p>
+    </body>
+  </text>
+</TEI>

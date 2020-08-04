@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Modern Times Rock 'N' Roll song</title>
+        <respStmt>
+          <resp>compiled by</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/moderntimesrocknroll.html">link to publisher website</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Modern Times Rock 'N' Roll</title>
+          <author>Writer(s): Roger Taylor</author>
+          <publisher>Album&quot;Queen&quot;</publisher>
+          <date>Album publication year: 1973</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <head>Modern Times Rock 'N' Roll</head>
+      <p>
+        <l>Had to make do with a worn out rock and roll scene</l>
+        <l>The old bop is gettin' tired need a rest</l>
+        <l>Well you know what I mean</l>
+        <l>Fifty eight that was great</l>
+        <l>But it's over now and That's all</l>
+        <l>Somethin' harder's coming up</l>
+        <l>Gonna really knock a hole in the wall</l>
+        <l>Gonna hit ya grab you hard</l>
+        <l>Make you feel ten feet tall</l>
+      </p>
+      <p>
+        <l>Well I hope this baby's gonna come along soon</l>
+        <l>You don't know it could happen any ol' rainy afternoon</l>
+        <l>With the temperature down</l>
+        <l>And the juke box blowin' no fuse</l>
+        <l>And my musical life's feelin</l>
+        <l>Like a long Sunday School cruise</l>
+        <l>And you know there's one thing</l>
+        <l>Every single body could use</l>
+        <l>Yeah listen to me baby</l>
+        <l>Let me tell you what it's all about</l>
+        <l>Modern times rock and roll</l>
+        <l>Modern times rock and roll</l>
+      </p>
+      <p>
+        <l>Get you high heeled guitar boots and some groovy clothes</l>
+        <l>Get a hair piece on your chest</l>
+        <l>And a ring through your nose</l>
+        <l>Find a nice little man who says</l>
+        <l>He's gonna make you a real big star</l>
+        <l>Stars in your eyes and ants in your pants</l>
+        <l>Think you should go far</l>
+        <l>Everybody in this bum sucking world</l>
+        <l>Gonna know just who you are</l>
+        <l>Look out</l>
+        <l>Modern times rock and roll</l>
+      </p>
+    </body>
+  </text>
+</TEI>
