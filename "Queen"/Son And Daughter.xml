@@ -5,21 +5,21 @@
       <titleStmt>
         <title>Son And Daughter song</title>
         <respStmt>
-          <resp>compiled by</resp>
+          <resp>Compiled by:</resp>
           <name>Yarden Vaknin</name>
           <name>Alex Mongait</name>
           <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>AZlyrics</publisher>
-        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/sonanddaughter.html">link to publisher website</pubPlace>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/sonanddaughter.html"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title level="j">Son And Daughter</title>
           <author>Writer(s): Freddie Mercury</author>
-          <publisher>Album&quot;Queen&quot;</publisher>
+          <publisher>Album:&quot;Queen&quot;</publisher>
           <date>Album publication year: 1973</date>
         </bibl>
       </sourceDesc>
@@ -27,32 +27,36 @@
   </teiHeader>
   <text>
     <body>
-      <head>Son And Daughter</head>
-      <p>
-        <l>Tried to be your son and daughter rolled into one</l>
-        <l>You said you'd equal any man for having your fun</l>
-        <l>Now didn't you feel surprise to find</l>
-        <l>The cap just didn't fit?</l>
-        <l>The world expects a man</l>
-        <l>To buckle down and to shovel shit</l>
-      </p>
-      <p>
-        <l>What'll you do for loving</l>
-        <l>When its only just begun?</l>
-        <l>I want you to be a woman</l>
-      </p>
-      <p>
-        <l>Tried to be a teacher and a fisher of men</l>
-        <l>An equal</l>
-        <l>Will you lead us all the same?</l>
-        <l>Well I travelled around the world</l>
-        <l>To find a brand new word for day</l>
-        <l>Watching the time mustn't linger behind</l>
-        <l>Pardon me I have to get away</l>
-        <l>What'll you think of heaven</l>
-        <l>If it's back from where you came?</l>
-        <l>I want you to be a woman</l>
-      </p>
+      <div type="heading">
+        <head>Son And Daughter</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Tried to be your son and daughter rolled into one</l>
+          <l>You said you'd equal any man for having your fun</l>
+          <l>Now didn't you feel surprise to find</l>
+          <l>The cap just didn't fit?</l>
+          <l>The world expects a man</l>
+          <l>To buckle down and to shovel shit</l>
+        </lg>
+        <lg>
+          <l>What'll you do for loving</l>
+          <l>When its only just begun?</l>
+          <l>I want you to be a woman</l>
+        </lg>
+        <lg>
+          <l>Tried to be a teacher and a fisher of men</l>
+          <l>An equal</l>
+          <l>Will you lead us all the same?</l>
+          <l>Well I travelled around the world</l>
+          <l>To find a brand new word for day</l>
+          <l>Watching the time mustn't linger behind</l>
+          <l>Pardon me I have to get away</l>
+          <l>What'll you think of heaven</l>
+          <l>If it's back from where you came?</l>
+          <l>I want you to be a woman</l>
+        </lg>
+      </div>
     </body>
   </text>
 </TEI>

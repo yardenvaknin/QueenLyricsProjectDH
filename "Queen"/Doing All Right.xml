@@ -5,21 +5,21 @@
       <titleStmt>
         <title>Doing All Right song</title>
         <respStmt>
-          <resp>compiled by</resp>
+          <resp>Compiled by:</resp>
           <name>Yarden Vaknin</name>
           <name>Alex Mongait</name>
           <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>AZlyrics</publisher>
-        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/doingallright.html">link to publisher website</pubPlace>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/doingallright.html"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title level="j">Doing All Right</title>
           <author>Writer(s): May Brian Harold, Staffell Timothy John</author>
-          <publisher>Album&quot;Queen&quot;</publisher>
+          <publisher>Album:&quot;Queen&quot;</publisher>
           <date>Album publication year: 1973</date>
         </bibl>
       </sourceDesc>
@@ -27,36 +27,40 @@
   </teiHeader>
   <text>
     <body>
-      <head>Doing All Right</head>
-      <p>
-        <l>Yesterday my life was in ruin</l>
-        <l>Now today I know what I'm doing</l>
-        <l>Got a feeling I should be doing all right</l>
-        <l>Doing all right</l>
-      </p>
-      <p>
-        <l>Where will I be this time tomorrow?</l>
-        <l>Jumped in joy or sinking in sorrow</l>
-        <l>Anyway I should be doing all right</l>
-        <l>Doing all right</l>
-      </p>
-      <p>
-        <l>Should be waiting for the sun</l>
-        <l>Looking 'round to find the words to say</l>
-        <l>Should be waiting for the skies to clear</l>
-        <l>There ain't time in all the world</l>
-      </p>
-      <p>
-        <l>Should be waiting for the sun</l>
-        <l>And anyway, I got to hide away</l>
-      </p>
-      <p>
-        <l>Yesterday my life was in ruin</l>
-        <l>Now today God knows what I'm doing</l>
-        <l>Anyway I should be doing all right</l>
-        <l>Doing all right</l>
-        <l>Doing all right</l>
-      </p>
+      <div type="heading">
+        <head>Doing All Right</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Yesterday my life was in ruin</l>
+          <l>Now today I know what I'm doing</l>
+          <l>Got a feeling I should be doing all right</l>
+          <l>Doing all right</l>
+        </lg>
+        <lg>
+          <l>Where will I be this time tomorrow?</l>
+          <l>Jumped in joy or sinking in sorrow</l>
+          <l>Anyway I should be doing all right</l>
+          <l>Doing all right</l>
+        </lg>
+        <lg>
+          <l>Should be waiting for the sun</l>
+          <l>Looking 'round to find the words to say</l>
+          <l>Should be waiting for the skies to clear</l>
+          <l>There ain't time in all the world</l>
+        </lg>
+        <lg>
+          <l>Should be waiting for the sun</l>
+          <l>And anyway, I got to hide away</l>
+        </lg>
+        <lg>
+          <l>Yesterday my life was in ruin</l>
+          <l>Now today God knows what I'm doing</l>
+          <l>Anyway I should be doing all right</l>
+          <l>Doing all right</l>
+          <l>Doing all right</l>
+        </lg>
+      </div>
     </body>
   </text>
 </TEI>

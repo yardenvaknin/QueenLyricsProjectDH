@@ -5,21 +5,21 @@
       <titleStmt>
         <title>The Night Comes Down song</title>
         <respStmt>
-          <resp>compiled by</resp>
+          <resp>Compiled by:</resp>
           <name>Yarden Vaknin</name>
           <name>Alex Mongait</name>
           <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>AZlyrics</publisher>
-        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/thenightcomesdown.html">link to publisher website</pubPlace>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/thenightcomesdown.html"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title level="j">The Night Comes Down</title>
           <author>Writer(s): May Brian Harold</author>
-          <publisher>Album&quot;Queen&quot;</publisher>
+          <publisher>Album:&quot;Queen&quot;</publisher>
           <date>Album publication year: 1973</date>
         </bibl>
       </sourceDesc>
@@ -27,41 +27,45 @@
   </teiHeader>
   <text>
     <body>
-      <head>The Night Comes Down</head>
-      <p>
-        <l>When I was young it came to me</l>
-        <l>And I could see the sun break in</l>
-        <l>Lucy was high and so was I</l>
-        <l>Dazzling, holding the world inside</l>
-      </p>
-      <p>
-        <l>Once I believed in everyone</l>
-        <l>Everyone and anyone can see</l>
-      </p>
-      <p>
-        <l>Oh, oh, the night comes down</l>
-        <l>And I get afraid of losing my way</l>
-        <l>Oh, oh, the night comes down</l>
-        <l>Ooh, and it's dark again</l>
-      </p>
-      <p>
-        <l>Once I could laugh with everyone</l>
-        <l>Once I could see the good in me</l>
-        <l>The black and the white distinctively</l>
-        <l>Colouring, holding the world inside</l>
-      </p>
-      <p>
-        <l>Now all the world is grey to me</l>
-        <l>Nobody can see you gotta believe it</l>
-      </p>
-      <p>
-        <l>Oh, oh, the night comes down</l>
-        <l>And I get afraid of losing my way</l>
-        <l>Oh, oh, the night comes down</l>
-        <l>Ooh, and it's dark again</l>
-        <l>And it's dark again</l>
-        <l>And it's dark again</l>
-      </p>
+      <div type="heading">
+        <head>The Night Comes Down</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>When I was young it came to me</l>
+          <l>And I could see the sun break in</l>
+          <l>Lucy was high and so was I</l>
+          <l>Dazzling, holding the world inside</l>
+        </lg>
+        <lg>
+          <l>Once I believed in everyone</l>
+          <l>Everyone and anyone can see</l>
+        </lg>
+        <lg>
+          <l>Oh, oh, the night comes down</l>
+          <l>And I get afraid of losing my way</l>
+          <l>Oh, oh, the night comes down</l>
+          <l>Ooh, and it's dark again</l>
+        </lg>
+        <lg>
+          <l>Once I could laugh with everyone</l>
+          <l>Once I could see the good in me</l>
+          <l>The black and the white distinctively</l>
+          <l>Colouring, holding the world inside</l>
+        </lg>
+        <lg>
+          <l>Now all the world is grey to me</l>
+          <l>Nobody can see you gotta believe it</l>
+        </lg>
+        <lg>
+          <l>Oh, oh, the night comes down</l>
+          <l>And I get afraid of losing my way</l>
+          <l>Oh, oh, the night comes down</l>
+          <l>Ooh, and it's dark again</l>
+          <l>And it's dark again</l>
+          <l>And it's dark again</l>
+        </lg>
+      </div>
     </body>
   </text>
 </TEI>

@@ -5,21 +5,21 @@
       <titleStmt>
         <title>Jesus song</title>
         <respStmt>
-          <resp>compiled by</resp>
+          <resp>Compiled by:</resp>
           <name>Yarden Vaknin</name>
           <name>Alex Mongait</name>
           <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>AZlyrics</publisher>
-        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/jesus.html">link to publisher website</pubPlace>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/jesus.html"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title level="j">Jesus</title>
           <author>Writer(s): Mercury Frederick</author>
-          <publisher>Album&quot;Queen&quot;</publisher>
+          <publisher>Album:&quot;Queen&quot;</publisher>
           <date>Album publication year: 1973</date>
         </bibl>
       </sourceDesc>
@@ -27,44 +27,48 @@
   </teiHeader>
   <text>
     <body>
-      <head>Jesus</head>
-      <p>
-        <l>And then I saw Him in the crowd</l>
-        <l>A lot of people had gathered round Him</l>
-        <l>The beggers shouted and the lepers called Him</l>
-        <l>The old man said nothing</l>
-        <l>He just stared about Him</l>
-        <l>All going down to see the Lord Jesus</l>
-        <l>All going down to see the Lord Jesus</l>
-        <l>All going down</l>
-      </p>
-      <p>
-        <l>Then came a man before His feet he fell</l>
-        <l>Unclean said the leper and rang his bell</l>
-        <l>Felt the palm of a hand touch his head</l>
-        <l>Go now go now you're a new man instead</l>
-        <l>All going down to see the Lord Jesus</l>
-        <l>All going down to see the Lord Jesus</l>
-        <l>All going down</l>
-      </p>
-      <p>
-        <l>It all began with the three wise men</l>
-        <l>Followed a star took them to Bethelehem</l>
-        <l>And made it heard throughout the land</l>
-        <l>Born was the leader of man</l>
-        <l>All going down to see the Lord Jesus</l>
-        <l>All going down to see the Lord Jesus</l>
-        <l>All going down</l>
-      </p>
-      <p>
-        <l>It all began with the three wise men</l>
-        <l>Followed a star took them to Bethelehem</l>
-        <l>And made it heard throughout the land</l>
-        <l>Born was the leader of man</l>
-        <l>All going down to see the Lord Jesus</l>
-        <l>All going down to see the Lord Jesus</l>
-        <l>All going down</l>
-      </p>
+      <div type="heading">
+        <head>Jesus</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>And then I saw Him in the crowd</l>
+          <l>A lot of people had gathered round Him</l>
+          <l>The beggers shouted and the lepers called Him</l>
+          <l>The old man said nothing</l>
+          <l>He just stared about Him</l>
+          <l>All going down to see the Lord Jesus</l>
+          <l>All going down to see the Lord Jesus</l>
+          <l>All going down</l>
+        </lg>
+        <lg>
+          <l>Then came a man before His feet he fell</l>
+          <l>Unclean said the leper and rang his bell</l>
+          <l>Felt the palm of a hand touch his head</l>
+          <l>Go now go now you're a new man instead</l>
+          <l>All going down to see the Lord Jesus</l>
+          <l>All going down to see the Lord Jesus</l>
+          <l>All going down</l>
+        </lg>
+        <lg>
+          <l>It all began with the three wise men</l>
+          <l>Followed a star took them to Bethelehem</l>
+          <l>And made it heard throughout the land</l>
+          <l>Born was the leader of man</l>
+          <l>All going down to see the Lord Jesus</l>
+          <l>All going down to see the Lord Jesus</l>
+          <l>All going down</l>
+        </lg>
+        <lg>
+          <l>It all began with the three wise men</l>
+          <l>Followed a star took them to Bethelehem</l>
+          <l>And made it heard throughout the land</l>
+          <l>Born was the leader of man</l>
+          <l>All going down to see the Lord Jesus</l>
+          <l>All going down to see the Lord Jesus</l>
+          <l>All going down</l>
+        </lg>
+      </div>
     </body>
   </text>
 </TEI>

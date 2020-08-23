@@ -5,21 +5,21 @@
       <titleStmt>
         <title>My Fairy King song</title>
         <respStmt>
-          <resp>compiled by</resp>
+          <resp>Compiled by:</resp>
           <name>Yarden Vaknin</name>
           <name>Alex Mongait</name>
           <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>AZlyrics</publisher>
-        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/myfairyking.html">link to publisher website</pubPlace>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/myfairyking.html"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title level="j">My Fairy King</title>
           <author>Writer(s): Freddie Mercury</author>
-          <publisher>Album&quot;Queen&quot;</publisher>
+          <publisher>Album:&quot;Queen&quot;</publisher>
           <date>Album publication year: 1973</date>
         </bibl>
       </sourceDesc>
@@ -27,49 +27,53 @@
   </teiHeader>
   <text>
     <body>
-      <head>My Fairy King</head>
-      <p>
-        <l>In the land where horses born with eagle wings</l>
-        <l>And honey bees have lost their stings</l>
-        <l>There's singing forever</l>
-        <l>Lion's den with fallow deer</l>
-        <l>And rivers made from wine so clear</l>
-        <l>Flow on and on forever</l>
-        <l>Dragons fly like sparrows thru' the air</l>
-        <l>And baby lambs where Samson dares</l>
-        <l>To go on on on on on on</l>
-      </p>
-      <p>
-        <l>[First voice] [Second Voice]</l>
-        <l>My fairy king can see things | He rules the air and turns the tides</l>
-        <l>That are not there for you and me | Ohh yeah he guides the winds</l>
-      </p>
-      <p>
-        <l>My fairy king can do right and nothing wrong</l>
-        <l>Then came man to savage in the night</l>
-        <l>To run like thieves and to kill like knives</l>
-        <l>To take away the power from the magic hand</l>
-        <l>To bring about the ruin to the promised land</l>
-      </p>
-      <p>
-        <l>They turn the milk into sour</l>
-        <l>Like the blue in the blood of my veins</l>
-        <l>Why can't you see it</l>
-        <l>Fire burnin' in hell with the cry of screaming pain</l>
-        <l>Son of heaven set me free and let me go</l>
-        <l>Sea turn dry no salt from sand</l>
-        <l>Seasons fly no helping hand</l>
-        <l>Teeth don't shine like pearls for the poor man's eyes</l>
-      </p>
-      <p>
-        <l>Someone someone has drained the colour from my wings</l>
-        <l>Broken my fairy circle ring</l>
-        <l>And shamed the king in all his pride</l>
-        <l>Changed the winds and wronged the tides</l>
-        <l>Mother mercury (mercury)</l>
-        <l>Look what they've done to me</l>
-        <l>I cannot run I cannot hide</l>
-      </p>
+      <div type="heading">
+        <head>My Fairy King</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>In the land where horses born with eagle wings</l>
+          <l>And honey bees have lost their stings</l>
+          <l>There's singing forever</l>
+          <l>Lion's den with fallow deer</l>
+          <l>And rivers made from wine so clear</l>
+          <l>Flow on and on forever</l>
+          <l>Dragons fly like sparrows thru' the air</l>
+          <l>And baby lambs where Samson dares</l>
+          <l>To go on on on on on on</l>
+        </lg>
+        <lg>
+          <l>[First voice] [Second Voice]</l>
+          <l>My fairy king can see things | He rules the air and turns the tides</l>
+          <l>That are not there for you and me | Ohh yeah he guides the winds</l>
+        </lg>
+        <lg>
+          <l>My fairy king can do right and nothing wrong</l>
+          <l>Then came man to savage in the night</l>
+          <l>To run like thieves and to kill like knives</l>
+          <l>To take away the power from the magic hand</l>
+          <l>To bring about the ruin to the promised land</l>
+        </lg>
+        <lg>
+          <l>They turn the milk into sour</l>
+          <l>Like the blue in the blood of my veins</l>
+          <l>Why can't you see it</l>
+          <l>Fire burnin' in hell with the cry of screaming pain</l>
+          <l>Son of heaven set me free and let me go</l>
+          <l>Sea turn dry no salt from sand</l>
+          <l>Seasons fly no helping hand</l>
+          <l>Teeth don't shine like pearls for the poor man's eyes</l>
+        </lg>
+        <lg>
+          <l>Someone someone has drained the colour from my wings</l>
+          <l>Broken my fairy circle ring</l>
+          <l>And shamed the king in all his pride</l>
+          <l>Changed the winds and wronged the tides</l>
+          <l>Mother mercury (mercury)</l>
+          <l>Look what they've done to me</l>
+          <l>I cannot run I cannot hide</l>
+        </lg>
+      </div>
     </body>
   </text>
 </TEI>
