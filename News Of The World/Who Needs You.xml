@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Who Needs You song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/whoneedsyou.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Who Needs You</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Who Needs You</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>I make it half past six you come at seven</l>
+          <l>Always trying to keep me, hanging round</l>
+          <l>You little spoilt thing, girl you kept me waiting</l>
+          <l>Never contemplating my point of view</l>
+          <l>This comes as no surprise</l>
+          <l>I'm a fool, for I believed your lies</l>
+          <l>But now I've seen through your disguise</l>
+          <l>Who needs, well I don't need, who needs you?</l>
+        </lg>
+        <lg>
+          <l>Oh I believed you</l>
+          <l>Went on my knees to you</l>
+          <l>How I trusted you</l>
+          <l>But you turned me down</l>
+          <l>But it's dog eat dog in this rat race</l>
+          <l>And it leaves you bleeding lying flat on your face</l>
+          <l>Reaching out, reaching out for a helping hand</l>
+          <l>Where is that helping hand?</l>
+        </lg>
+        <lg>
+          <l>How I was pushed around</l>
+          <l>&quot;Don't let it get you down&quot;</l>
+          <l>You walked all over me</l>
+          <l>&quot;But don't you ever give in&quot;</l>
+          <l>Taking one step forward, slipping two steps back</l>
+          <l>There's an empty feeling that you can't forget</l>
+          <l>Reaching out, reaching out for a helping hand</l>
+        </lg>
+        <lg>
+          <l>When I met you, you were always charming</l>
+          <l>Couldn't sleep at night 'till you were mine</l>
+          <l>You were oh so so sophisticated</l>
+          <l>Never interested in what I'd say</l>
+          <l>I had to swallow my pride</l>
+          <l>So naive, you took me for a ride</l>
+          <l>But now I'm the one to decide</l>
+          <l>Who needs, well I don't need, who needs you?</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

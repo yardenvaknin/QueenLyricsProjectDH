@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>It's Late song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/itslate.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">It's Late</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>It's Late</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>You say you love me</l>
+          <l>And I hardly know your name</l>
+          <l>And if I say I love you in the candle light</l>
+          <l>There's no one but myself to blame</l>
+        </lg>
+        <lg>
+          <l>But there's something inside</l>
+          <l>That's turning my mind away</l>
+          <l>Oh, how I could love you</l>
+          <l>If I could let you stay</l>
+        </lg>
+        <lg>
+          <l>It's late when I'm bleeding deep inside</l>
+          <l>It's late. Ooh, is it just my sickly pride?</l>
+          <l>Too late. Even now the feeling seems to steal away</l>
+          <l>So late. Though I'm crying I can't help but hear you say</l>
+          <l>It's late, it's late, it's late, but not too late</l>
+        </lg>
+        <lg>
+          <l>The way you love me</l>
+          <l>Is the sweetest love around</l>
+          <l>But after all this time</l>
+          <l>The more I'm trying</l>
+          <l>The more I seem to let you down</l>
+          <l>Yes, baby</l>
+        </lg>
+        <lg>
+          <l>Now you tell me you're leaving</l>
+          <l>And I just can't believe it's true</l>
+          <l>Oh, you know that I can love you</l>
+          <l>Though I know I can't be true</l>
+          <l>Oh, you made me love you</l>
+          <l>Don't tell me that we're through</l>
+        </lg>
+        <lg>
+          <l>It's late, but it's driving me so mad</l>
+          <l>It's late. Yes, I know but don't try to tell me</l>
+          <l>That it's too late. Save our love you can't turn out the lights</l>
+          <l>So late. I've been wrong but I'll learn to be right</l>
+          <l>It's late, it's late, it's late, but not too late</l>
+        </lg>
+        <lg>
+          <l>I've been so long</l>
+          <l>You've been so long</l>
+          <l>We've been so long tryna work it out</l>
+        </lg>
+        <lg>
+          <l>I ain't got long</l>
+          <l>You ain't got long</l>
+          <l>We gotta know what this life is all about</l>
+        </lg>
+        <lg>
+          <l>Tell me</l>
+        </lg>
+        <lg>
+          <l>Tryna work it out</l>
+        </lg>
+        <lg>
+          <l>Ooh, too late, yeah</l>
+          <l>Too late, much too late</l>
+        </lg>
+        <lg>
+          <l>You're staring at me</l>
+          <l>With suspicion in your eye</l>
+          <l>You say what game are you playing?</l>
+          <l>What's this that you're saying?</l>
+          <l>I know that I can't reply</l>
+        </lg>
+        <lg>
+          <l>If I take you tonight</l>
+          <l>Is it making my life a lie?</l>
+          <l>Oh, you make me wonder</l>
+          <l>Did I live my life right?</l>
+        </lg>
+        <lg>
+          <l>It's late, but it's time to set me free</l>
+          <l>It's late. Ooh, yes, I know but there's no way it has to be</l>
+          <l>Too late. So, let the fire take our bodies this night</l>
+          <l>So late. Let the waters take our guilt in the tide</l>
+          <l>It's late, it's late, it's late, it's late, it's late, it's late, it's late</l>
+          <l>It's all too late</l>
+        </lg>
+        <lg>
+          <l>Whoa, whoa</l>
+          <l>It's too late, c'mon</l>
+          <l>Late too late, oh, yeah</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

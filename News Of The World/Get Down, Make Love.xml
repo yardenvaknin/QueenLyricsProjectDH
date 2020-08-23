@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Get Down, Make Love song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/getdownmakelove.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Get Down, Make Love</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Get Down, Make Love</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Get down make love</l>
+          <l>Get down make love</l>
+          <l>Get down make love</l>
+          <l>Get down make love</l>
+          <l>You take my body</l>
+          <l>I give you heat</l>
+          <l>You say you're hungry</l>
+          <l>I give you meat</l>
+          <l>I suck your mind</l>
+        </lg>
+        <lg>
+          <l>You blow my head</l>
+          <l>Make love (make love)</l>
+          <l>Inside your bed - everybody get down make love</l>
+          <l>Get down make love</l>
+          <l>Get down make love</l>
+          <l>Get down make love</l>
+        </lg>
+        <lg>
+          <l>Every time I get hot</l>
+          <l>You wanna cool down</l>
+          <l>Every time I get high</l>
+          <l>You say you wanna come down</l>
+          <l>You say it's enough</l>
+          <l>In fact it's too much</l>
+          <l>Every time I get a - Get down, get down, get down</l>
+          <l>Make love</l>
+        </lg>
+        <lg>
+          <l>(Get down) I can squeeze - (make love) you can shake me</l>
+          <l>(Get down) I can feel (make love) when you break me</l>
+          <l>(Get down) Come on so heavy (make love)</l>
+          <l>(Get down) When you take me (make love)</l>
+          <l>You make love, you make love, you make love (get down), you make love (make love)</l>
+        </lg>
+        <lg>
+          <l>You can make everybody get down make love</l>
+          <l>Get down make love</l>
+        </lg>
+        <lg>
+          <l>Every time I get high</l>
+          <l>You wanna come down</l>
+          <l>Every time I get hot</l>
+          <l>You say you wanna cool down</l>
+          <l>You say it's enough</l>
+          <l>In fact it's too much</l>
+          <l>Every time I wanna, get down, get down get down</l>
+        </lg>
+        <lg>
+          <l>Make love make love make love make love</l>
+        </lg>
+        <lg>
+          <l>Get down make love</l>
+          <l>Get down make love</l>
+          <l>Get down make love</l>
+          <l>Get down make love</l>
+        </lg>
+        <lg>
+          <l>Every time I get high</l>
+          <l>You wanna come down</l>
+          <l>Every time I get hot</l>
+          <l>You say you wanna cool down</l>
+          <l>You say it's enough</l>
+          <l>In fact it's too much</l>
+          <l>Every time I wanna, get down, get down get down make love</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

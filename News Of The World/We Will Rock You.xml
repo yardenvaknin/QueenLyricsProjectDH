@@ -1,1 +1,81 @@
-
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>We Will Rock You song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/wewillrockyou.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">We Will Rock You</title>
+          <author>Writer(s): Brian May</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>We Will Rock You</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Buddy you're a boy make a big noise</l>
+          <l>Playin' in the street gonna be a big man some day</l>
+          <l>You got mud on yo' face</l>
+          <l>You big disgrace</l>
+          <l>Kickin' your can all over the place</l>
+          <l>Singin'</l>
+        </lg>
+        <lg>
+          <l>We will we will rock you</l>
+          <l>We will we will rock you</l>
+        </lg>
+        <lg>
+          <l>Buddy you're a young man hard man</l>
+          <l>Shoutin' in the street gonna take on the world some day</l>
+          <l>You got blood on yo' face</l>
+          <l>You big disgrace</l>
+          <l>Wavin' your banner all over the place</l>
+        </lg>
+        <lg>
+          <l>We will we will rock you</l>
+          <l>(Sing it out!)</l>
+          <l>We will we will rock you</l>
+        </lg>
+        <lg>
+          <l>Buddy you're an old man poor man</l>
+          <l>Pleadin' with your eyes gonna make you some peace some day</l>
+          <l>You got mud on your face</l>
+          <l>Big disgrace</l>
+          <l>Somebody better put you back into your place</l>
+        </lg>
+        <lg>
+          <l>We will we will rock you</l>
+          <l>(Sing it!)</l>
+          <l>We will we will rock you</l>
+        </lg>
+        <lg>
+          <l>(Everybody)</l>
+        </lg>
+        <lg>
+          <l>We will we will rock you</l>
+          <l>We will we will rock you</l>
+          <l>(Alright)</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

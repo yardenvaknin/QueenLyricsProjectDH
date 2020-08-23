@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Spread Your Wings song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/spreadyourwings.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Spread Your Wings</title>
+          <author>Writer(s): John Deacon</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Spread Your Wings</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Sammy was low</l>
+          <l>Just watching the show</l>
+          <l>Over and over again</l>
+          <l>Knew it was time</l>
+          <l>He'd made up his mind</l>
+          <l>To leave his dead life behind</l>
+          <l>His boss said to him</l>
+          <l>&quot;Boy you'd better begin</l>
+          <l>To get those crazy notions right out of your head</l>
+          <l>Sammy who do you think that you are?</l>
+          <l>You should've been sweeping up the Emerald Bar&quot;</l>
+        </lg>
+        <lg>
+          <l>Spread your wings and fly away</l>
+          <l>Fly away, far away</l>
+          <l>Spread your little wings and fly away</l>
+          <l>Fly away, far away</l>
+          <l>Pull yourself together</l>
+          <l>'Cause you know you should do better</l>
+          <l>That's because you're a free man</l>
+        </lg>
+        <lg>
+          <l>He spends his evenings alone in his hotel room</l>
+          <l>Keeping his thoughts to himself, he'd be leaving soon</l>
+          <l>Wishing he was miles and miles away</l>
+          <l>Nothing in this world, nothing would make him stay</l>
+        </lg>
+        <lg>
+          <l>Since he was small</l>
+          <l>Had no luck at all</l>
+          <l>Nothing came easy to him</l>
+          <l>Now it was time</l>
+          <l>He'd made up his mind</l>
+          <l>&quot;This could be my last chance&quot;</l>
+          <l>His boss said to him, &quot;Now listen boy!</l>
+          <l>You're always dreaming</l>
+          <l>You've got no real ambition, you won't get very far</l>
+          <l>Sammy boy, don't you know who you are?</l>
+          <l>Why can't you be happy at the Emerald Bar?&quot;</l>
+        </lg>
+        <lg>
+          <l>So honey</l>
+        </lg>
+        <lg>
+          <l>Spread your wings and fly away</l>
+          <l>Fly away, far away</l>
+          <l>Spread your little wings and fly away</l>
+          <l>Fly away, far away</l>
+          <l>Pull yourself together</l>
+          <l>'Cause you know you should do better</l>
+          <l>That's because you're a free man</l>
+        </lg>
+        <lg>
+          <l>Come on, honey</l>
+          <l>Fly with me</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

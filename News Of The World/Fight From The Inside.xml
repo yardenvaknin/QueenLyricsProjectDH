@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fight From The Inside song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/fightfromtheinside.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Fight From The Inside</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Fight From The Inside</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Hey you boy, hey you</l>
+          <l>Hey you boy, think that you know what you're doing</l>
+          <l>You think you're gonna set things to rights</l>
+          <l>You're just another picture on a teenage wall</l>
+          <l>You're just another sucker ready for a fall</l>
+        </lg>
+        <lg>
+          <l>You gotta</l>
+          <l>Fight from the inside</l>
+          <l>Attack from the rear</l>
+          <l>Fight from the inside</l>
+        </lg>
+        <lg>
+          <l>You can't win with your hands tied</l>
+          <l>Fight from the inside</l>
+          <l>Fight from the inside</l>
+          <l>Right down the line -</l>
+        </lg>
+        <lg>
+          <l>Hey you boy, hey you</l>
+          <l>Hey you boy think that you know what you're doing</l>
+          <l>You think that out in the streets is all free</l>
+          <l>You're just another money-spinner tool</l>
+          <l>You're just another fool</l>
+        </lg>
+        <lg>
+          <l>You gotta</l>
+          <l>Fight from the inside</l>
+          <l>Attack from the rear</l>
+          <l>Fight from the inside</l>
+        </lg>
+        <lg>
+          <l>You can't win with your hands tied</l>
+          <l>Fight from the inside</l>
+          <l>Fight from the inside</l>
+          <l>Right down the line -</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

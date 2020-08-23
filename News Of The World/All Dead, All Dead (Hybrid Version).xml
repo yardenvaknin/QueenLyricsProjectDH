@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>All Dead, All Dead (Hybrid Version) song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/alldeadalldeadhybridversion.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">All Dead, All Dead (Hybrid Version)</title>
+          <author>Writer(s): May Brian Harold</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>All Dead, All Dead (Hybrid Version)</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Memories, memories</l>
+          <l>How long can you stay to haunt my days?</l>
+          <l>'Twas not for talk of loving</l>
+          <l>'Twas not for talk at all</l>
+          <l>So much ado about nothing</l>
+          <l>Would be her only call</l>
+        </lg>
+        <lg>
+          <l>So much ado my lover</l>
+          <l>So many games we played</l>
+          <l>Through many a fleeted summer</l>
+          <l>Through every precious day</l>
+        </lg>
+        <lg>
+          <l>All dead, all dead</l>
+          <l>All the dreams we had</l>
+          <l>And I wonder why I still live on</l>
+          <l>All dead, all dead</l>
+          <l>And alone I'm spared</l>
+          <l>My sweeter half instead</l>
+          <l>All dead and gone</l>
+          <l>All dead</l>
+        </lg>
+        <lg>
+          <l>All dead, all dead</l>
+          <l>At the rainbow's end</l>
+          <l>Still I hear her own sweet song</l>
+          <l>All dead, all dead</l>
+          <l>Take me back again</l>
+          <l>I know my little friend's</l>
+          <l>All dead and gone</l>
+        </lg>
+        <lg>
+          <l>Her ways are always with me</l>
+          <l>I wander all the while</l>
+          <l>But please you must forgive me</l>
+          <l>I am old but still a child</l>
+        </lg>
+        <lg>
+          <l>All dead, all dead</l>
+          <l>But I should not grieve</l>
+          <l>In time it comes to everyone</l>
+          <l>All dead, all dead</l>
+          <l>But in hope I breathe</l>
+          <l>Of course I don't believe</l>
+          <l>You're dead and gone</l>
+          <l>All dead and gone</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

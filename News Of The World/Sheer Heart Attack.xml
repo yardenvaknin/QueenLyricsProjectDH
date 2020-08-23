@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sheer Heart Attack song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/sheerheartattack.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Sheer Heart Attack</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Sheer Heart Attack</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Well you're just 17 and all you wanna do is disappear</l>
+          <l>You know what I mean there's a lot of space between your ears</l>
+          <l>The way that you touch don't feel nothin'</l>
+          <l>Hey hey hey hey, it was the DNA</l>
+          <l>Hey hey hey hey, that made me this way</l>
+          <l>Do you know, do you know, do you know, just how I feel</l>
+          <l>Do you know, do you know, do you know, just how I feel</l>
+        </lg>
+        <lg>
+          <l>Sheer heart attack</l>
+          <l>Sheer heart attack</l>
+          <l>Real cardiac</l>
+        </lg>
+        <lg>
+          <l>I feel so in-articulate</l>
+        </lg>
+        <lg>
+          <l>Gotta feelin', gotta feelin', gotta feelin', like I'm paralysed</l>
+          <l>It ain't no, it ain't no, it ain't no, it ain't no surprise</l>
+          <l>Turn on the TV let it drip right down in your eyes</l>
+          <l>Hey hey hey hey, it was the DNA</l>
+          <l>Hey hey hey hey, that made me this way</l>
+          <l>Do you know, do you know, do you know, just how I feel</l>
+          <l>Do you know, do you know, do you know, just how I feel</l>
+        </lg>
+        <lg>
+          <l>Sheer heart attack</l>
+          <l>Sheer heart attack</l>
+          <l>Real cardiac</l>
+        </lg>
+        <lg>
+          <l>I feel so in-articulate</l>
+          <l>Just how I feel</l>
+          <l>Do you know, do you know, do you know just how I feel</l>
+        </lg>
+        <lg>
+          <l>Do you know, do you know, do you know just how I feel</l>
+          <l>Do you know, do you know, do you know, do you know just how I feel</l>
+        </lg>
+        <lg>
+          <l>Sheer heart attack</l>
+          <l>Sheer heart attack</l>
+          <l>Real cardiac</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sleeping On The Sidewalk song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/sleepingonthesidewalk.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Sleeping On The Sidewalk</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;News Of The World&quot;</publisher>
+          <date>Album publication year: 1977</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Sleeping On The Sidewalk</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>I was nothin' but a city boy</l>
+          <l>My trumpet was my only toy</l>
+          <l>I've been blowin' my horn</l>
+          <l>Since I knew I was born</l>
+          <l>But there ain't nobody wants to know</l>
+        </lg>
+        <lg>
+          <l>I've been</l>
+          <l>Sleepin' on the sidewalk</l>
+          <l>Rollin' down the road</l>
+          <l>I may get hungry</l>
+          <l>But I sure don't want to go home</l>
+        </lg>
+        <lg>
+          <l>So round the corner comes a limousine</l>
+          <l>And the biggest grin I've ever seen</l>
+          <l>Hey sonny won't you sign</l>
+          <l>Right along the dotted line</l>
+          <l>What you sayin' Are you playin'</l>
+          <l>Sure you don't mean me?</l>
+        </lg>
+        <lg>
+          <l>Sleepin' on the sidewalk</l>
+          <l>Rollin' down the road</l>
+          <l>I may get hungry</l>
+          <l>But I sure don't wanna go home</l>
+        </lg>
+        <lg>
+          <l>(I'll tell you what happened. . .)</l>
+        </lg>
+        <lg>
+          <l>They took me to a room without a table</l>
+          <l>They said &quot;blow your trumpet into here&quot;</l>
+          <l>I played around as well as I was able</l>
+          <l>And soon we had the record of the year</l>
+        </lg>
+        <lg>
+          <l>I was a legend all through the land</l>
+          <l>I was blowin' to a million fans</l>
+          <l>Nothin' was a-missin'</l>
+          <l>All the people want to listen</l>
+          <l>You'd have thought I was a happy man</l>
+        </lg>
+        <lg>
+          <l>And I was</l>
+          <l>Sleepin' like a princess</l>
+          <l>Never touched the road</l>
+          <l>I don't get hungry</l>
+          <l>And I sure don't want to go home</l>
+          <l>(have to have some fun. . .)</l>
+        </lg>
+        <lg>
+          <l>Now they tell me that I ain't so fashionable</l>
+          <l>And that I owe the man a million bucks a year</l>
+          <l>So I told 'em where to stick the fancy label</l>
+          <l>It's just me and the road from here</l>
+        </lg>
+        <lg>
+          <l>I'm back to playin' and layin'</l>
+          <l>I'm back on the game</l>
+        </lg>
+        <lg>
+          <l>I'm sleepin' on the sidewalk</l>
+          <l>Rollin' down the road</l>
+          <l>I sure get hungry and I</l>
+          <l>Sure do wanna go home</l>
+          <l>(Yeah)</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
