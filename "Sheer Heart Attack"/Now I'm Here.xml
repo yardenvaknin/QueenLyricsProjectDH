@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Now I'm Here song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/nowimhere.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Now I'm Here</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Now I'm Here</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Here I stand (here I stand)</l>
+          <l>Look around around around around around</l>
+          <l>But you won't see me (but you won't see me)</l>
+        </lg>
+        <lg>
+          <l>Now I'm here (now I'm here)</l>
+          <l>Now I'm there (now I'm there)</l>
+        </lg>
+        <lg>
+          <l>I'm just a</l>
+        </lg>
+        <lg>
+          <l>Just a new man</l>
+          <l>Yes you made me live again, wow</l>
+        </lg>
+        <lg>
+          <l>A baby I was when you took my hand</l>
+          <l>And the light of the night burned bright</l>
+          <l>The people all stared didn't understand</l>
+          <l>But you knew my name on sight</l>
+        </lg>
+        <lg>
+          <l>Ooh, whatever came of you and me</l>
+          <l>America's new bride to be</l>
+          <l>Ooh, don't worry baby I'm safe and sound</l>
+          <l>Down in the dungeon just peaches and me</l>
+        </lg>
+        <lg>
+          <l>Don't I love her so</l>
+          <l>Yes she made me live again, yeah</l>
+        </lg>
+        <lg>
+          <l>Yeah, ooh,</l>
+        </lg>
+        <lg>
+          <l>A thin moon me in a smoke-screen sky</l>
+          <l>Where the beams of your love light chase</l>
+          <l>Don't move, don't speak, don't feel no pain</l>
+          <l>With the rain running down my face</l>
+        </lg>
+        <lg>
+          <l>Your matches still light up the sky</l>
+          <l>And many a tear lives on in my eye</l>
+        </lg>
+        <lg>
+          <l>Down in the city just Hoople and me</l>
+          <l>Don't I love him so</l>
+          <l>Ooh don't I love him so</l>
+        </lg>
+        <lg>
+          <l>Whatever comes of you and me</l>
+          <l>I love to leave my memory</l>
+          <l>With you</l>
+        </lg>
+        <lg>
+          <l>Now I'm here (now I'm here)</l>
+          <l>Think I'll stay around around around around around around</l>
+          <l>Down in the city just a-you and me</l>
+        </lg>
+        <lg>
+          <l>Don't I love you so</l>
+          <l>Go, go, go, little queenie</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

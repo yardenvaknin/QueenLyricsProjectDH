@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lily Of The Valley song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/lilyofthevalley.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Lily Of The Valley</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Lily Of The Valley</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>I am forever searching high and low</l>
+          <l>But why does everybody tell me no</l>
+          <l>Neptune of the seas</l>
+          <l>Have you an answer for me please</l>
+          <l>And the lily of the valley doesn't know</l>
+        </lg>
+        <lg>
+          <l>I lie in wait with open eyes</l>
+          <l>I carry on through stormy skies</l>
+          <l>I follow every course</l>
+          <l>My kingdom for a horse</l>
+          <l>But each time I grow old</l>
+          <l>Serpent of the Nile</l>
+          <l>Relieve me for a while</l>
+          <l>And cast me from your spell and let me go</l>
+        </lg>
+        <lg>
+          <l>Messenger from Seven Seas has flown</l>
+          <l>To tell the King of Rhye he's lost his throne</l>
+          <l>Wars will never cease</l>
+          <l>Is there time enough for peace</l>
+          <l>But the lily of the valley doesn't know</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

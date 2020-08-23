@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tenement Funster song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/tenementfunster.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Tenement Funster</title>
+          <author>Writer(s): Roger Taylor</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Tenement Funster</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>My new purple shoes been amazing the people next door</l>
+          <l>And my rock-and-roll 45s, been enraging the folks on the lower floor</l>
+        </lg>
+        <lg>
+          <l>I got a way with the girls on my block</l>
+          <l>Try my best be a real individual</l>
+          <l>And when we go down to Smokies and rock</l>
+          <l>They line up like it's some kinda ritual</l>
+        </lg>
+        <lg>
+          <l>Ooh, give me a good guitar, and you can say that my hair's a disgrace</l>
+          <l>Or just find me an open car, I'll make the speed of light out of this place</l>
+        </lg>
+        <lg>
+          <l>I like the good things in life</l>
+          <l>But most of the best things ain't free</l>
+          <l>And this same situation just cuts like a knife</l>
+          <l>When you're young, and you're poor, and you're crazy</l>
+        </lg>
+        <lg>
+          <l>Ooh, give me a good guitar, and you can say that my hair's a disgrace</l>
+          <l>Or just find me an open car, I'll make the speed of light out of this place</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

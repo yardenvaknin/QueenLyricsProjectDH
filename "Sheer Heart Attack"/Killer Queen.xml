@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Killer Queen song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/killerqueen.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Killer Queen</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Killer Queen</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>She keeps Moët et Chandon</l>
+          <l>In her pretty cabinet</l>
+          <l>'Let them eat cake,' she says</l>
+          <l>Just like Marie Antoinette</l>
+          <l>A built-in remedy</l>
+          <l>For Khrushchev and Kennedy</l>
+          <l>At anytime an invitation</l>
+          <l>You can't decline</l>
+        </lg>
+        <lg>
+          <l>Caviar and cigarettes</l>
+          <l>Well versed in etiquette</l>
+          <l>Extraordinarily nice</l>
+        </lg>
+        <lg>
+          <l>She's a Killer Queen</l>
+          <l>Gunpowder, gelatine</l>
+          <l>Dynamite with a laser beam</l>
+          <l>Guaranteed to blow your mind</l>
+          <l>Anytime</l>
+        </lg>
+        <lg>
+          <l>Recommended at the price</l>
+          <l>Insatiable an appetite</l>
+          <l>Wanna try?</l>
+        </lg>
+        <lg>
+          <l>To avoid complications</l>
+          <l>She never kept the same address</l>
+          <l>In conversation</l>
+          <l>She spoke just like a baroness</l>
+          <l>Met a man from China</l>
+          <l>Went down to Geisha Minah</l>
+          <l>Then again incidentally</l>
+          <l>If you're that way inclined</l>
+        </lg>
+        <lg>
+          <l>Perfume came naturally from Paris (naturally)</l>
+          <l>For cars she couldn't care less</l>
+          <l>Fastidious and precise</l>
+        </lg>
+        <lg>
+          <l>She's a Killer Queen</l>
+          <l>Gunpowder, gelatine</l>
+          <l>Dynamite with a laser beam</l>
+          <l>Guaranteed to blow your mind</l>
+          <l>Anytime</l>
+        </lg>
+        <lg>
+          <l>Drop of a hat she's as willing as</l>
+          <l>Playful as a pussy cat</l>
+          <l>Then momentarily out of action</l>
+          <l>Temporarily out of gas</l>
+          <l>To absolutely drive you wild, wild</l>
+          <l>She's out to get you</l>
+        </lg>
+        <lg>
+          <l>She's a Killer Queen</l>
+          <l>Gunpowder, gelatine</l>
+          <l>Dynamite with a laser beam</l>
+          <l>Guaranteed to blow your mind</l>
+          <l>Anytime</l>
+        </lg>
+        <lg>
+          <l>Recommended at the price</l>
+          <l>Insatiable an appetite</l>
+          <l>Wanna try?</l>
+          <l>You wanna try</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

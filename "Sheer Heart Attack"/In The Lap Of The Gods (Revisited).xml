@@ -1,0 +1,108 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In The Lap Of The Gods (Revisited) song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/inthelapofthegodsrevisited.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">In The Lap Of The Gods (Revisited)</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>In The Lap Of The Gods (Revisited)</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>It's so easy, but I can't do it</l>
+          <l>So risky, but I gotta chance it</l>
+          <l>So funny, there's nothing to laugh about</l>
+          <l>My money, that's all you wanna talk about</l>
+          <l>I can see what you want me to be</l>
+          <l>But I'm no fool</l>
+        </lg>
+        <lg>
+          <l>It's in the lap of the Gods</l>
+          <l>Wo wo la la la</l>
+          <l>I can see what you want me to be</l>
+          <l>I'm no fool</l>
+        </lg>
+        <lg>
+          <l>No beginning, there's no ending</l>
+          <l>There's no meaning in my pretending</l>
+          <l>Believe me, life goes on and on and on</l>
+          <l>Forgive me when I ask you where do I belong</l>
+          <l>You say I</l>
+          <l>(You can do it)</l>
+          <l>Can't</l>
+          <l>(You can do it)</l>
+          <l>Set</l>
+          <l>(You can go and set her free)</l>
+          <l>You free from me</l>
+          <l>But that's not true</l>
+        </lg>
+        <lg>
+          <l>It's in the lap of the Gods</l>
+        </lg>
+        <lg>
+          <l>Wo wo la la la oh</l>
+          <l>I can see what you want me to be</l>
+          <l>But I'm no fool</l>
+          <l>It's in the lap of the Gods</l>
+        </lg>
+        <lg>
+          <l>Wo wo la la la wo</l>
+          <l>Wo wo la la</l>
+          <l>Wo wo ooh</l>
+          <l>But that's not true</l>
+          <l>It's in the lap of the Gods</l>
+        </lg>
+        <lg>
+          <l>Wo wo la la la wo</l>
+          <l>Wo wo la la</l>
+          <l>Wo wo ooh</l>
+          <l>But I'm no fool</l>
+          <l>It's in the lap of the Gods</l>
+        </lg>
+        <lg>
+          <l>Wo wo la la la wo</l>
+          <l>Wo wo la la</l>
+          <l>Wo wo ooh</l>
+        </lg>
+        <lg>
+          <l>It's in the lap of the Gods</l>
+        </lg>
+        <lg>
+          <l>Wo wo la la la wo</l>
+          <l>Wo wo la la</l>
+          <l>Wo wo ooh</l>
+          <l>But I'm no fool</l>
+          <l>It's in the lap of the Gods</l>
+        </lg>
+        <lg>
+          <l>Wo wo la la la wo</l>
+          <l>Wo wo la la</l>
+          <l>Wo wo ooh</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>She Makes Me (Stormtrooper In Stilettoes) song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/shemakesmestormtrooperinstilettoes.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">She Makes Me (Stormtrooper In Stilettoes)</title>
+          <author>Writer(s): Brian May</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>She Makes Me (Stormtrooper In Stilettoes)</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>My love</l>
+          <l>She makes me</l>
+          <l>She is my heart</l>
+          <l>She is my love</l>
+          <l>She is my love</l>
+        </lg>
+        <lg>
+          <l>I know</l>
+          <l>I'm jealous of her</l>
+          <l>She makes me need</l>
+          <l>She is my love</l>
+          <l>She is my love</l>
+        </lg>
+        <lg>
+          <l>Who knows who she'll make me</l>
+          <l>As I lie in her cocoon</l>
+          <l>But the world will surely heal my ills</l>
+          <l>I'm warm and terrified</l>
+          <l>She makes me so</l>
+        </lg>
+        <lg>
+          <l>I know the day I leave her</l>
+          <l>I'll love her still</l>
+          <l>She is my love</l>
+          <l>She is my love</l>
+        </lg>
+        <lg>
+          <l>Who knows where my dreams will end</l>
+          <l>I'll follow as they grow</l>
+          <l>But the world will know how long I'll take</l>
+          <l>And if I'm very slow she makes me so</l>
+        </lg>
+        <lg>
+          <l>She is my love</l>
+          <l>She is my love</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

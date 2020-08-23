@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Flick Of The Wrist song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/flickofthewrist.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Flick Of The Wrist</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Flick Of The Wrist</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Dislocate your spine if you don't sign he says</l>
+          <l>I'll have you seeing double</l>
+          <l>Mesmerize you when he's tongue-tied</l>
+          <l>Simply with those eyes</l>
+          <l>Synchronize your minds and see</l>
+          <l>The beast within him rise</l>
+        </lg>
+        <lg>
+          <l>Don't look back</l>
+          <l>Don't look back</l>
+          <l>It's a rip-off</l>
+          <l>Flick of the wrist and you're dead baby</l>
+          <l>Blow him a kiss and you're mad</l>
+          <l>Flick of the wrist - he'll eat your heart out</l>
+          <l>A dig in the ribs and then a kick in the head</l>
+          <l>He's taken an arm and taken a leg</l>
+          <l>All this time honey</l>
+          <l>Baby you've been had.</l>
+        </lg>
+        <lg>
+          <l>Intoxicate your brain with what I'm saying</l>
+          <l>If not you'll lie in knee-deep trouble</l>
+          <l>Prostitute yourself he says</l>
+          <l>Castrate your human pride</l>
+          <l>Sacrifice your leisure days</l>
+          <l>Let me squeeze you till you've dried</l>
+        </lg>
+        <lg>
+          <l>Don't look back</l>
+          <l>Don't look back</l>
+          <l>It's a rip-off</l>
+        </lg>
+        <lg>
+          <l>Work my fingers to my bones</l>
+          <l>I scream with pain</l>
+          <l>I still make no impression</l>
+          <l>Seduce you with his money-make machine</l>
+          <l>Cross-collateralize, (big-time money, money)</l>
+          <l>Reduce you to a muzak-fake machine</l>
+          <l>Then the last goodbye</l>
+          <l>It's a rip-off</l>
+        </lg>
+        <lg>
+          <l>Flick of the wrist and you're dead baby</l>
+          <l>Blow him a kiss and you're mad</l>
+          <l>Flick of the wrist - he'll eat your heart out</l>
+          <l>A dig in the ribs and then a kick in the head</l>
+          <l>He's taken an arm, and taken a leg</l>
+          <l>All this time honey</l>
+          <l>Baby you've been had</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

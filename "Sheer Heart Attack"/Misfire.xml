@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Misfire song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/misfire.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Misfire</title>
+          <author>Writer(s): John Deacon</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Misfire</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Don't you misfire</l>
+          <l>Fill me up</l>
+          <l>With the desire</l>
+          <l>To carry on</l>
+        </lg>
+        <lg>
+          <l>Don't you know honey, that love's a game</l>
+          <l>It's always hit or miss, so take your aim</l>
+          <l>Got to hold on tight, shoot me out of sight</l>
+        </lg>
+        <lg>
+          <l>Don't you misfire</l>
+          <l>Fill me up</l>
+          <l>With the desire</l>
+          <l>To carry on</l>
+        </lg>
+        <lg>
+          <l>Don't you misfire</l>
+          <l>Fill me up</l>
+          <l>With the desire</l>
+          <l>To carry on</l>
+        </lg>
+        <lg>
+          <l>Your gun is loaded, and pointing my way</l>
+          <l>There's only one bullet, so don't delay</l>
+          <l>Got to time it right, fire me through the night</l>
+        </lg>
+        <lg>
+          <l>Come on, take a shot</l>
+          <l>Fire me higher</l>
+          <l>Don't you miss this time</l>
+          <l>Please don't misfire, misfire</l>
+          <l>Misfire</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

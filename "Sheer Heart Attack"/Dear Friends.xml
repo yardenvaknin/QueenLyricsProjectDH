@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dear Friends song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/dearfriends.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Dear Friends</title>
+          <author>Writer(s): Brian May</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Dear Friends</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>So dear friends your love is gone</l>
+          <l>Only tears to dwell upon</l>
+          <l>I dare not say as the wind must blow</l>
+          <l>So a love is lost, a love is won</l>
+        </lg>
+        <lg>
+          <l>Go to sleep and dream again</l>
+          <l>Soon your hopes will rise and then</l>
+          <l>From all this gloom life can start anew</l>
+          <l>And there'll be no crying soon</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

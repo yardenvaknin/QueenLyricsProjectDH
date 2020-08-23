@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Stone Cold Crazy song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/stonecoldcrazy.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Stone Cold Crazy</title>
+          <author>Writer(s): Deacon John Richard, May Brian Harold</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Stone Cold Crazy</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Sleeping very soundly</l>
+          <l>On a Saturday morning</l>
+          <l>I was dreaming I was Al Capone</l>
+          <l>There's a rumour going round</l>
+          <l>Gotta clear outta town</l>
+          <l>I'm smelling like a dry-fish bone</l>
+        </lg>
+        <lg>
+          <l>Here come the Law,</l>
+          <l>Gonna break down the door</l>
+          <l>Gonna carry me away once more</l>
+          <l>Never, I never,</l>
+          <l>I never want it any more</l>
+          <l>Gotta get away from this stone-cold floor</l>
+        </lg>
+        <lg>
+          <l>Crazy</l>
+          <l>Stone-cold crazy, you know</l>
+        </lg>
+        <lg>
+          <l>Rainy afternoon</l>
+          <l>I gotta blow a typhoon</l>
+          <l>And I'm playing on my slide trombone</l>
+          <l>Anymore, anymore,</l>
+          <l>Cannot take it anymore</l>
+          <l>Gotta get away from this stone-cold floor</l>
+        </lg>
+        <lg>
+          <l>Crazy</l>
+          <l>Stone-cold crazy, you know</l>
+        </lg>
+        <lg>
+          <l>Hit 'em up</l>
+        </lg>
+        <lg>
+          <l>Walking down the street</l>
+          <l>Shooting people that I meet</l>
+          <l>With my rubber Tommy water gun</l>
+          <l>Here come the deputy</l>
+          <l>He's gonna come and get a me</l>
+          <l>I gotta get me get up and run</l>
+        </lg>
+        <lg>
+          <l>They got the sirens loose</l>
+          <l>I ran right out of juice</l>
+          <l>They're gonna put me in a cell</l>
+          <l>If I can't go to heaven</l>
+          <l>Will they let me go to hell?</l>
+        </lg>
+        <lg>
+          <l>Crazy</l>
+          <l>Stone-cold crazy, you know</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

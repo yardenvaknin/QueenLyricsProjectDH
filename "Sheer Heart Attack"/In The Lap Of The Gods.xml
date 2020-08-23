@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In The Lap Of The Gods song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/inthelapofthegods.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">In The Lap Of The Gods</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>In The Lap Of The Gods</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Leave it in the lap of the gods</l>
+        </lg>
+        <lg>
+          <l>I live my life for you</l>
+          <l>Think all my thoughts with you and only you</l>
+          <l>Anything you ask I do, for you</l>
+          <l>I touch your lips with mine</l>
+          <l>But in the end</l>
+          <l>I leave it to the lords</l>
+          <l>Leave it in the lap of the gods</l>
+          <l>What more can I do?</l>
+        </lg>
+        <lg>
+          <l>Leave it in the lap of the gods</l>
+          <l>I leave it to you</l>
+          <l>Leave it in the lap of the gods</l>
+          <l>Leave it in the lap of the gods</l>
+          <l>I want you to</l>
+          <l>Leave it in the lap of the gods</l>
+          <l>Leave it in the lap of the gods</l>
+          <l>Leave it in the lap of the gods</l>
+        </lg>
+        <lg>
+          <l>Lap of the gods</l>
+          <l>Lap of the gods</l>
+          <l>Lap of the gods</l>
+          <l>Lap of the gods</l>
+          <l>Lap of the gods</l>
+          <l>Lap of the gods</l>
+          <l>Lap of the gods</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

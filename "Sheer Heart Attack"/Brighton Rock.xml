@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Brighton Rock song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/brightonrock.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Brighton Rock</title>
+          <author>Writer(s): May Brian Harold</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Brighton Rock</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Happy little day, Jimmy went away</l>
+          <l>Met his little Jenny on a public holiday</l>
+          <l>A happy pair they made, so decorously laid</l>
+          <l>'Neath the gay illuminations all along the promenade</l>
+          <l>&quot;It's so good to know there's still a little magic in the air</l>
+          <l>I'll weave my spell&quot;</l>
+        </lg>
+        <lg>
+          <l>&quot;Jenny will you stay - tarry with me pray</l>
+          <l>Nothing 'ere need come between us tell me love, what</l>
+          <l>do you say&quot;</l>
+          <l>&quot;Oh no I must away to my Mum in disarray</l>
+          <l>If my mother should discover how I spent my holiday</l>
+          <l>It would be of small avail to talk of magic in the air</l>
+          <l>I'll say farewell&quot;</l>
+        </lg>
+        <lg>
+          <l>O Rock of Ages, do not crumble, love is breathing still</l>
+          <l>O Lady Moon, shine down a little people magic if you will</l>
+        </lg>
+        <lg>
+          <l>Jenny pines away, writes a letter everyday</l>
+          <l>&quot;We must ever be together, nothing can my love erase&quot;</l>
+          <l>&quot;Oh no I'm compromised, I must apologize</l>
+          <l>If my lady should discover how I spent my holidays...&quot;</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
