@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Father To Son song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/fathertoson.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Father To Son</title>
+          <author>Writer(s): Brian May</author>
+          <publisher>Album:&quot;Queen II&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Father To Son</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>A word in your ear, from father to son</l>
+          <l>hear the words that I say</l>
+          <l>I fought with you, fought on your side</l>
+          <l>Long before you were born</l>
+        </lg>
+        <lg>
+          <l>Joyful the sound, the word goes around</l>
+          <l>From father to son, to son</l>
+        </lg>
+        <lg>
+          <l>And the voice is so clear, time after time it leeps</l>
+          <l>Calling you, calling you on</l>
+          <l>Don't destroy what you see, your country to be</l>
+          <l>Just keep on building on the ground that's been won</l>
+        </lg>
+        <lg>
+          <l>Kings will be crowned, the word goes around</l>
+          <l>From father to son, to son</l>
+        </lg>
+        <lg>
+          <l>Take this letter that I give you,</l>
+          <l>Take it sonny, hold it high</l>
+          <l>You won't understand a word that's in it</l>
+          <l>But you'll write it all again before you die</l>
+          <l>A word in your ear from father to son</l>
+          <l>Funny you don't hear a single word I say</l>
+          <l>But my letter to you, will stay by your side</l>
+          <l>Through the years till the loneliness is gone</l>
+          <l>Sing if you will -</l>
+          <l>But the air you breathe I live to give you</l>
+        </lg>
+        <lg>
+          <l>Father to son</l>
+          <l>Father to, father to, father to son</l>
+        </lg>
+        <lg>
+          <l>Joyful the sound, the word goes around</l>
+          <l>From father to son, to son...</l>
+        </lg>
+        <lg>
+          <l>Kings will be crowned, the word goes around</l>
+          <l>From father to son, to son...</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Funny How Love Is song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/funnyhowloveis.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Funny How Love Is</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album:&quot;Queen II&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Funny How Love Is</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Funny how love is everywhere just look and see</l>
+          <l>Funny how love is anywhere you're bound to be</l>
+          <l>Funny how love is every song in every key</l>
+          <l>Funny how love is coming home in time for tea</l>
+          <l>Funny, funny, funny</l>
+          <l>Funny how love is the end of lies when the truth begins</l>
+          <l>Tomorrow comes tomorrow beings</l>
+          <l>Tomorrow brings love in the shape of things</l>
+          <l>That's what love is, that's what love is</l>
+        </lg>
+        <lg>
+          <l>Funny how love is can break your heart so suddenly</l>
+          <l>Funny how love came tumbling down with adam and eve</l>
+          <l>Funny how love is running wild and feeling free</l>
+          <l>Funny how live is coming home in time for tea</l>
+          <l>Funny, funny, funny</l>
+          <l>From the earth below to the heavens above</l>
+          <l>That's how far and funny is love</l>
+          <l>At any time, anywhere</l>
+          <l>If you gotta make love do it everywhere</l>
+          <l>That's what love is, that's what love is</l>
+        </lg>
+        <lg>
+          <l>Funny how love is everywhere just look and see</l>
+          <l>Funny how love is anywhere you're bound to be</l>
+          <l>Funny how love is every song and every key</l>
+          <l>Funny how love is when you gotta hurry home</l>
+          <l>'Cos you're late for tea</l>
+          <l>Funny, funny, funny how love is</l>
+          <l>Tomorrow comes, tomorrow brings</l>
+          <l>Tomorrow brings love in the shape of things</l>
+          <l>At any time, anywhere</l>
+          <l>If you gotta make love do it everywhere</l>
+          <l>That's what love is, that's what love is</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

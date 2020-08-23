@@ -5,21 +5,21 @@
       <titleStmt>
         <title>The Loser In The End song</title>
         <respStmt>
-          <resp>compiled by</resp>
+          <resp>Compiled by:</resp>
           <name>Yarden Vaknin</name>
           <name>Alex Mongait</name>
           <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>AZlyrics</publisher>
-        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/theloserintheend.html">link to publisher website</pubPlace>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/theloserintheend.html"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title level="j">The Loser In The End</title>
           <author>Writer(s): Taylor Roger Meddows</author>
-          <publisher>Album&quot;Queen II&quot;</publisher>
+          <publisher>Album:&quot;Queen II&quot;</publisher>
           <date>Album publication year: 1974</date>
         </bibl>
       </sourceDesc>
@@ -27,40 +27,44 @@
   </teiHeader>
   <text>
     <body>
-      <head>The Loser In The End</head>
-      <p>
-        <l>Mama's gotta problem</l>
-        <l>She don't know what to say</l>
-        <l>Her little baby boy just left home today</l>
-        <l>She's got to be the loser in the end</l>
-        <l>She's got to be the loser in the end</l>
-        <l>Misuse her and you'll lose her as a friend</l>
-        <l>She's ma on whom you can always depend</l>
-      </p>
-      <p>
-        <l>She washed and fed, and clothed and cared</l>
-        <l>For nearly twenty years</l>
-        <l>And all she gets is &quot;goodbye ma&quot;</l>
-        <l>And the nightimes for her tears</l>
-        <l>She's got to be the loser in the end</l>
-        <l>She's got to be the loser in the end</l>
-        <l>Misuse her and you'll lose her as a friend</l>
-        <l>She's ma on whom you can always depend</l>
-      </p>
-      <p>
-        <l>So listen mothers everywhere</l>
-        <l>To just one mother's son</l>
-        <l>You'll get forgotten on the way</l>
-        <l>If you don't let them have their fun</l>
-        <l>Forget regrets, and just remember</l>
-        <l>It's so long since you were young</l>
-      </p>
-      <p>
-        <l>You're bound to be the loser in the end</l>
-        <l>You're bound to be the loser in the end</l>
-        <l>They'll choose their new shoes that's not far to bend</l>
-        <l>You're ma on whom they can always depend</l>
-      </p>
+      <div type="heading">
+        <head>The Loser In The End</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Mama's gotta problem</l>
+          <l>She don't know what to say</l>
+          <l>Her little baby boy just left home today</l>
+          <l>She's got to be the loser in the end</l>
+          <l>She's got to be the loser in the end</l>
+          <l>Misuse her and you'll lose her as a friend</l>
+          <l>She's ma on whom you can always depend</l>
+        </lg>
+        <lg>
+          <l>She washed and fed, and clothed and cared</l>
+          <l>For nearly twenty years</l>
+          <l>And all she gets is &quot;goodbye ma&quot;</l>
+          <l>And the nightimes for her tears</l>
+          <l>She's got to be the loser in the end</l>
+          <l>She's got to be the loser in the end</l>
+          <l>Misuse her and you'll lose her as a friend</l>
+          <l>She's ma on whom you can always depend</l>
+        </lg>
+        <lg>
+          <l>So listen mothers everywhere</l>
+          <l>To just one mother's son</l>
+          <l>You'll get forgotten on the way</l>
+          <l>If you don't let them have their fun</l>
+          <l>Forget regrets, and just remember</l>
+          <l>It's so long since you were young</l>
+        </lg>
+        <lg>
+          <l>You're bound to be the loser in the end</l>
+          <l>You're bound to be the loser in the end</l>
+          <l>They'll choose their new shoes that's not far to bend</l>
+          <l>You're ma on whom they can always depend</l>
+        </lg>
+      </div>
     </body>
   </text>
 </TEI>

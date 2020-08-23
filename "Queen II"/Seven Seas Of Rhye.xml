@@ -5,21 +5,21 @@
       <titleStmt>
         <title>Seven Seas Of Rhye song</title>
         <respStmt>
-          <resp>compiled by</resp>
+          <resp>Compiled by:</resp>
           <name>Yarden Vaknin</name>
           <name>Alex Mongait</name>
           <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
         </respStmt>
       </titleStmt>
       <publicationStmt>
-        <publisher>AZlyrics</publisher>
-        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/sevenseasofrhye.html">link to publisher website</pubPlace>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/sevenseasofrhye.html"/>
       </publicationStmt>
       <sourceDesc>
         <bibl>
           <title level="j">Seven Seas Of Rhye</title>
           <author>Writer(s): Mercury Frederick, Bulsara Freddie</author>
-          <publisher>Album&quot;Queen II&quot;</publisher>
+          <publisher>Album:&quot;Queen II&quot;</publisher>
           <date>Album publication year: 1974</date>
         </bibl>
       </sourceDesc>
@@ -27,40 +27,44 @@
   </teiHeader>
   <text>
     <body>
-      <head>Seven Seas Of Rhye</head>
-      <p>
-        <l>Fear me you lords and lady preachers</l>
-        <l>I descend upon your earth from the skies</l>
-        <l>I command your very souls you unbelievers</l>
-        <l>Bring before me what is mine</l>
-        <l>The seven seas of Rhye</l>
-      </p>
-      <p>
-        <l>Can you hear me you peers and privy counselors</l>
-        <l>I stand before you naked to the eyes</l>
-        <l>I will destroy any man who dares abuse my trust</l>
-        <l>I swear that you'll be mine</l>
-        <l>The seven seas of Rhye</l>
-      </p>
-      <p>
-        <l>Sister - I live and lie for you</l>
-        <l>Mister - do and I'll die</l>
-        <l>You are mine I possess you</l>
-        <l>I belong to you forever</l>
-      </p>
-      <p>
-        <l>Storm the master-marathon I'll fly through</l>
-        <l>By flash and thunder-fire I'll survive</l>
-        <l>Then I'll defy the laws of nature and come out alive</l>
-        <l>Then I'll get you</l>
-      </p>
-      <p>
-        <l>Be gone with you - you shod and shady senators</l>
-        <l>Give out the good, leave out the bad evil cries</l>
-        <l>I challenge the mighty titan and his troubadours</l>
-        <l>And with a smile</l>
-        <l>I'll take you to the seven seas of Rhye</l>
-      </p>
+      <div type="heading">
+        <head>Seven Seas Of Rhye</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Fear me you lords and lady preachers</l>
+          <l>I descend upon your earth from the skies</l>
+          <l>I command your very souls you unbelievers</l>
+          <l>Bring before me what is mine</l>
+          <l>The seven seas of Rhye</l>
+        </lg>
+        <lg>
+          <l>Can you hear me you peers and privy counselors</l>
+          <l>I stand before you naked to the eyes</l>
+          <l>I will destroy any man who dares abuse my trust</l>
+          <l>I swear that you'll be mine</l>
+          <l>The seven seas of Rhye</l>
+        </lg>
+        <lg>
+          <l>Sister - I live and lie for you</l>
+          <l>Mister - do and I'll die</l>
+          <l>You are mine I possess you</l>
+          <l>I belong to you forever</l>
+        </lg>
+        <lg>
+          <l>Storm the master-marathon I'll fly through</l>
+          <l>By flash and thunder-fire I'll survive</l>
+          <l>Then I'll defy the laws of nature and come out alive</l>
+          <l>Then I'll get you</l>
+        </lg>
+        <lg>
+          <l>Be gone with you - you shod and shady senators</l>
+          <l>Give out the good, leave out the bad evil cries</l>
+          <l>I challenge the mighty titan and his troubadours</l>
+          <l>And with a smile</l>
+          <l>I'll take you to the seven seas of Rhye</l>
+        </lg>
+      </div>
     </body>
   </text>
 </TEI>
