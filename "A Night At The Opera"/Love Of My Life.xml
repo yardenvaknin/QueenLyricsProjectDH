@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Love Of My Life song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/loveofmylife.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Love Of My Life</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Love Of My Life</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Love of my life, you've hurt me</l>
+          <l>You've broken my heart</l>
+          <l>And now you leave me</l>
+        </lg>
+        <lg>
+          <l>Love of my life, can't you see?</l>
+          <l>Bring it back, bring it back</l>
+          <l>Don't take it away from me</l>
+          <l>Because you don't know</l>
+          <l>What it means to me</l>
+        </lg>
+        <lg>
+          <l>Love of my life, don't leave me</l>
+          <l>You've taken my love</l>
+          <l>(All my love)</l>
+          <l>You now desert me</l>
+        </lg>
+        <lg>
+          <l>Love of my life, can't you see?</l>
+          <l>(Please bring it back)</l>
+          <l>Bring it back, bring it back</l>
+          <l>Don't take it away from me</l>
+          <l>Because you don't know</l>
+          <l>What it means to me</l>
+        </lg>
+        <lg>
+          <l>You will remember</l>
+          <l>When this is blown over</l>
+          <l>And everything's all by the way</l>
+          <l>When I grow older</l>
+          <l>I will be there at your side</l>
+          <l>To remind you how I still love you</l>
+          <l>I still love you</l>
+        </lg>
+        <lg>
+          <l>Back, hurry back</l>
+          <l>Please, bring it back home to me</l>
+          <l>Because you don't know</l>
+          <l>What it means to me</l>
+        </lg>
+        <lg>
+          <l>Love of my life</l>
+          <l>Love of my life</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

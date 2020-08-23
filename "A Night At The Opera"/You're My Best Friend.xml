@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>You're My Best Friend song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/youremybestfriend.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">You're My Best Friend</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>You're My Best Friend</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Ooh, you make me live</l>
+          <l>Whatever this world can give to me</l>
+          <l>It's you, you're all I see</l>
+          <l>Ooh, you make me live now honey</l>
+          <l>Ooh, you make me live</l>
+        </lg>
+        <lg>
+          <l>You're the best friend</l>
+          <l>That I ever had</l>
+          <l>I've been with you such a long time</l>
+          <l>You're my sunshine</l>
+          <l>And I want you to know</l>
+          <l>That my feelings are true</l>
+          <l>I really love you</l>
+          <l>You're my best friend</l>
+        </lg>
+        <lg>
+          <l>Ooh, you make me live</l>
+        </lg>
+        <lg>
+          <l>I've been wandering round</l>
+          <l>But I still come back to you</l>
+          <l>In rain or shine</l>
+          <l>You've stood by me girl</l>
+          <l>I'm happy at home (happy at home)</l>
+          <l>You're my best friend</l>
+        </lg>
+        <lg>
+          <l>Ooh, you make me live</l>
+          <l>Whenever this world is cruel to me</l>
+          <l>I got you to help me forgive</l>
+          <l>Ooh, you make me live now honey</l>
+          <l>Ooh, you make me live</l>
+        </lg>
+        <lg>
+          <l>You're the first one</l>
+          <l>When things turn out bad</l>
+          <l>You know I'll never be lonely</l>
+          <l>You're my only one</l>
+          <l>And I love the things</l>
+          <l>I really love the things that you do</l>
+          <l>You're my best friend</l>
+        </lg>
+        <lg>
+          <l>Ooh, you make me live</l>
+        </lg>
+        <lg>
+          <l>I'm happy, happy at home</l>
+          <l>You're my best friend</l>
+          <l>Oh</l>
+          <l>Oh, you're my best friend</l>
+          <l>Ooh, you make me live</l>
+          <l>Ooh, you're my best friend</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

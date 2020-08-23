@@ -1,0 +1,73 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I'm In Love With My Car song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/iminlovewithmycar.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">I'm In Love With My Car</title>
+          <author>Writer(s): Taylor Roger Meddows</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>I'm In Love With My Car</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>The machine of a dream</l>
+          <l>Such a clean machine</l>
+          <l>With the pistons a-pumpin'</l>
+          <l>And the hubcaps all gleam</l>
+        </lg>
+        <lg>
+          <l>When I'm holding your wheel</l>
+          <l>All I hear is your gear</l>
+          <l>With my hand on your grease gun</l>
+          <l>It's like a disease son</l>
+        </lg>
+        <lg>
+          <l>I'm in love with my car</l>
+          <l>Gotta feel for my automobile</l>
+          <l>Get a grip on my boy racer rollbar</l>
+          <l>Such a thrill when your radials squeal</l>
+        </lg>
+        <lg>
+          <l>Told my girl I have to forget her</l>
+          <l>Rather buy me a new carburettor</l>
+          <l>So she made tracks sayin' this is the end now</l>
+          <l>Cars don't talk back they're just four-wheeled friends now</l>
+        </lg>
+        <lg>
+          <l>When I'm holding your wheel</l>
+          <l>All I hear is your gear</l>
+          <l>When I'm cruisin' in overdrive</l>
+          <l>Don't have to listen to no run-of-the-mill talk jive</l>
+        </lg>
+        <lg>
+          <l>I'm in love with my car</l>
+          <l>Gotta feel for my automobile</l>
+          <l>I'm in love with my car</l>
+          <l>String-back gloves in my automolove!</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

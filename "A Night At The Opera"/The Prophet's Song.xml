@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Prophet's Song song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/theprophetssong.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The Prophet's Song</title>
+          <author>Writer(s): Brian May</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>The Prophet's Song</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Oh, oh, people of the earth</l>
+          <l>Listen to the warning</l>
+          <l>The seer he said</l>
+          <l>Beware the storm that gathers here</l>
+          <l>Listen to the wise man.</l>
+        </lg>
+        <lg>
+          <l>I dreamed I saw on a moonlit stair</l>
+          <l>Spreading his hands on the multitude there</l>
+          <l>A man who cried for a love gone stale</l>
+          <l>And ice cold hearts of charity bare.</l>
+          <l>I watched as fear took the old man's gaze</l>
+          <l>Hopes of the young in troubled graves</l>
+          <l>&quot;I see no day,&quot; I heard him say</l>
+          <l>So grey is the face of every mortal.</l>
+        </lg>
+        <lg>
+          <l>Oh, oh people of the earth</l>
+          <l>Listen to the warning</l>
+          <l>The prophet he said</l>
+          <l>For soon the cold of night will fall</l>
+          <l>Summoned by your own hand.</l>
+        </lg>
+        <lg>
+          <l>Oh, oh children of the land</l>
+          <l>Quicken to the new life</l>
+          <l>Take my hand</l>
+          <l>Fly and find the new green bough</l>
+          <l>Return like the white dove.</l>
+        </lg>
+        <lg>
+          <l>He told of death as a bone white haze</l>
+          <l>Taking the lost and the unloved babe</l>
+          <l>Late too late all the wretches run</l>
+          <l>These kings of beasts now counting their days.</l>
+        </lg>
+        <lg>
+          <l>From mother's love is the son estranged</l>
+          <l>Married his own his precious gain</l>
+          <l>The earth will shake in two will break</l>
+          <l>And death all around will be your dow'ry</l>
+        </lg>
+        <lg>
+          <l>Oh, oh people of the earth</l>
+          <l>Listen to the warning the seer he said</l>
+          <l>For those who hear and mark my words</l>
+          <l>Listen to the good plan</l>
+        </lg>
+        <lg>
+          <l>Oh, oh, oh, oh and two by two my human zoo</l>
+          <l>They'll be running for to come</l>
+          <l>Running for to come out of the rain</l>
+        </lg>
+        <lg>
+          <l>Oh flee for your life</l>
+          <l>Who heed me not let all your treasure make you</l>
+          <l>Oh fear for your life</l>
+          <l>Deceive you not the fires of hell will take you</l>
+          <l>Should death await you</l>
+        </lg>
+        <lg>
+          <l>Ah people can you hear me?</l>
+          <l>And now I know, and now I know</l>
+          <l>And now I know, and now I know</l>
+          <l>That you can hear me</l>
+          <l>And now I know, and now I know</l>
+          <l>And now I know, now I know</l>
+          <l>Now I know, now I know</l>
+          <l>Now I know, now I know</l>
+          <l>Now I know</l>
+          <l>The earth will shake in two will break</l>
+          <l>Death all around around around around</l>
+          <l>Around around around around</l>
+          <l>Now I know, now I know</l>
+          <l>Now I know, now I know</l>
+          <l>Now I know, now I know</l>
+          <l>Now I know, now I know</l>
+          <l>Now I know, now I know</l>
+          <l>Now I know</l>
+          <l>Wo wo wo wo wo wo wo wo wo</l>
+          <l>Listen to the wise listen to the wise listen to the wise</l>
+          <l>Listen to the wise listen to the wise man</l>
+          <l>La la</l>
+          <l>La la la la la la</l>
+          <l>La la la la la la</l>
+          <l>La la la la la la</l>
+          <l>La la la la la la</l>
+          <l>La la la la la la</l>
+          <l>La la la la la la</l>
+          <l>La la</l>
+          <l>La la</l>
+          <l>La la</l>
+          <l>Come here (I - You)</l>
+          <l>Come here (I - You)</l>
+          <l>Come here (I - You)</l>
+          <l>Come here (I - You)</l>
+        </lg>
+        <lg>
+          <l>Ah ah ah ah ah</l>
+          <l>Listen to the man listen to the man listen to the man listen to the mad man</l>
+        </lg>
+        <lg>
+          <l>God gave you grace to purge this place</l>
+          <l>And peace all around may be your fortune</l>
+        </lg>
+        <lg>
+          <l>Oh, oh children of the land</l>
+          <l>Love is still the answer take my hand</l>
+          <l>The vision fades a voice I hear</l>
+          <l>&quot;Listen to the Madman!&quot;</l>
+        </lg>
+        <lg>
+          <l>But still I fear and still I dare not</l>
+          <l>Laugh at the Madman!</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

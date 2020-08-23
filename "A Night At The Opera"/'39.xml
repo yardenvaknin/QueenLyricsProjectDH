@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>'39 song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/39.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">'39</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>'39</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>In the year of '39 assembled here the volunteers</l>
+          <l>In the days when the lands were few</l>
+          <l>Here the ship sailed out into the blue and sunny morn</l>
+          <l>The sweetest sight ever seen.</l>
+        </lg>
+        <lg>
+          <l>And the night followed day</l>
+          <l>And the story tellers say</l>
+          <l>That the score brave souls inside</l>
+          <l>For many a lonely day sailed across the milky seas</l>
+          <l>Never looked back, never feared, never cried.</l>
+        </lg>
+        <lg>
+          <l>Don't you hear my call though you're many years away</l>
+          <l>Don't you hear me calling you</l>
+          <l>Write your letters in the sand</l>
+          <l>For the day I take your hand</l>
+          <l>In the land that our grandchildren knew.</l>
+        </lg>
+        <lg>
+          <l>In the year of '39 came a ship in from the blue</l>
+          <l>The volunteers came home that day</l>
+          <l>And they bring good news of a world so newly born</l>
+          <l>Though their hearts so heavily weigh</l>
+        </lg>
+        <lg>
+          <l>For the earth is old and grey, little darling wellaway</l>
+          <l>But my love this cannot be</l>
+          <l>For so many years have gone though I'm older but a year</l>
+          <l>Your mother's eyes from your eyes cry to me.</l>
+        </lg>
+        <lg>
+          <l>Don't you hear my call though you're many years away</l>
+          <l>Don't you hear me calling you</l>
+          <l>Write your letters in the sand</l>
+          <l>For the day I take your hand</l>
+          <l>In the land that our grandchildren knew.</l>
+        </lg>
+        <lg>
+          <l>Don't you hear my call though you're many years away</l>
+          <l>Don't you hear me calling you</l>
+          <l>All your letters in the sand cannot heal me like your hand</l>
+        </lg>
+        <lg>
+          <l>For my life</l>
+          <l>Still ahead</l>
+          <l>Pity me.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,1 +1,107 @@
-
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Death On Two Legs song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/deathontwolegs.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Death On Two Legs</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Death On Two Legs</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>You suck my blood like a leech</l>
+          <l>You break the law and you breach</l>
+          <l>Screw my brain 'til it hurts</l>
+          <l>You've taken all my money, and you want more</l>
+        </lg>
+        <lg>
+          <l>Misguided old mule</l>
+          <l>With your pigheaded rules</l>
+          <l>With your narrow-minded cronies</l>
+          <l>Who are fools of the first division</l>
+        </lg>
+        <lg>
+          <l>Death on two legs</l>
+          <l>You're tearing me apart</l>
+          <l>Death on two legs</l>
+          <l>You never had a heart</l>
+          <l>Of your own</l>
+        </lg>
+        <lg>
+          <l>Kill joy, bad guy</l>
+          <l>Big talking, small fry</l>
+          <l>You're just an old barrow boy</l>
+          <l>Have you found a new toy</l>
+          <l>To replace me?</l>
+          <l>Can you face me?</l>
+        </lg>
+        <lg>
+          <l>But now you can kiss my ass goodbye</l>
+        </lg>
+        <lg>
+          <l>Feel good. Are you satisfied?</l>
+          <l>Do you feel like suicide?</l>
+          <l>I think you should</l>
+          <l>Is your conscience all right?</l>
+          <l>Does it plague you at night?</l>
+          <l>Do you feel good, feel good?</l>
+        </lg>
+        <lg>
+          <l>Talk like a big business tycoon</l>
+          <l>You're just a hot air balloon</l>
+          <l>So no one gives you a damn</l>
+          <l>You're just an overgrown school boy</l>
+          <l>Let me tan your hide</l>
+        </lg>
+        <lg>
+          <l>Dog with disease</l>
+          <l>You're the king of the 'sleaze'</l>
+          <l>Put your money where your mouth is, Mr. Know-All</l>
+          <l>Was the fin on your back part of the deal, shark?</l>
+        </lg>
+        <lg>
+          <l>Death on two legs</l>
+          <l>Tearing me apart</l>
+          <l>Death on two legs</l>
+          <l>You never had a heart</l>
+          <l>You never did</l>
+          <l>...of your own</l>
+          <l>...right from the start</l>
+        </lg>
+        <lg>
+          <l>Insane, you should be put inside</l>
+          <l>You're a sewer rat decaying in a cesspool of pride</l>
+        </lg>
+        <lg>
+          <l>Should be made unemployed</l>
+          <l>Then make yourself null and void</l>
+          <l>Make me feel good</l>
+          <l>I feel good</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

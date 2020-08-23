@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Sweet Lady song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/sweetlady.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Sweet Lady</title>
+          <author>Writer(s): May Brian Harold</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Sweet Lady</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>You call me up and treat me like a dog</l>
+          <l>You call me up and tear me up inside</l>
+          <l>You've got me on a lead</l>
+          <l>You bring me down</l>
+          <l>You shout around</l>
+          <l>You don't believe that I'm alone</l>
+          <l>You don't believe me</l>
+        </lg>
+        <lg>
+          <l>Sweet lady</l>
+          <l>Sweet lady</l>
+          <l>Sweet lady... stay sweet</l>
+        </lg>
+        <lg>
+          <l>You say</l>
+          <l>You call me up and feed me all the lines</l>
+          <l>You call me sweet like I'm some kind of cheese</l>
+          <l>Waiting on the shelf</l>
+          <l>You eat me up</l>
+          <l>You hold me down</l>
+          <l>I'm just a fool to make you a home</l>
+        </lg>
+        <lg>
+          <l>Ooh you really do</l>
+          <l>And you say</l>
+          <l>Sweet lady</l>
+          <l>Sweet lady</l>
+          <l>Sweet lady... stay sweet</l>
+        </lg>
+        <lg>
+          <l>My sweet lady</l>
+          <l>Though it seems like we wait forever</l>
+          <l>Stay sweet baby</l>
+          <l>Believe and we've got everything we need</l>
+        </lg>
+        <lg>
+          <l>Sweet lady</l>
+          <l>Sweet lady</l>
+          <l>Sweet lady... stay sweet</l>
+        </lg>
+        <lg>
+          <l>Runaway come on</l>
+          <l>Yeah yeah</l>
+          <l>Sweet lady</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

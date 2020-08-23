@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lazing On A Sunday Afternoon song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/lazingonasundayafternoon.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Lazing On A Sunday Afternoon</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Lazing On A Sunday Afternoon</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>I go off to work on Monday morning</l>
+          <l>Tuesday I go off to honeymoon</l>
+          <l>I'll be back again before it's time for sunny-down</l>
+          <l>I'll be lazing on a Sunday afternoon</l>
+        </lg>
+        <lg>
+          <l>Bicycling on every Wednesday evening</l>
+          <l>Thursday I go waltzing to the zoo</l>
+          <l>I come from London town, I'm just an ordinary guy,</l>
+          <l>Fridays I go painting in the Louvre</l>
+        </lg>
+        <lg>
+          <l>I'm bound to be proposing on a Saturday night</l>
+          <l>(There he goes again)</l>
+          <l>I'll be lazing on a Sunday</l>
+          <l>Lazing on a Sunday</l>
+          <l>Lazing on a Sunday afternoon.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

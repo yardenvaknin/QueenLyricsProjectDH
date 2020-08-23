@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Seaside Rendezvous song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/seasiderendezvous.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Seaside Rendezvous</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Seaside Rendezvous</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Seaside</l>
+          <l>Whenever you stroll along with me I'm merely contemplating what you feel inside</l>
+          <l>Meanwhile</l>
+          <l>I ask you to be my Clementine</l>
+        </lg>
+        <lg>
+          <l>You say you will if you could but you can't</l>
+          <l>I love you madly</l>
+          <l>Let my imagination run away with you gladly</l>
+          <l>A brand new angle</l>
+          <l>Highly commendable</l>
+          <l>Seaside rendezvous</l>
+        </lg>
+        <lg>
+          <l>I feel so romantic. Can we do it again?</l>
+          <l>Can we do it again sometime? (ooh I like that)</l>
+          <l>Fantastic, c'est la vie mesdames et messieurs</l>
+          <l>And at the peak of the season, the Mediterranean</l>
+          <l>This time of year it's so fashionable,</l>
+        </lg>
+        <lg>
+          <l>I feel like dancing in the rain,</l>
+          <l>Can I have a volunteer?</l>
+          <l>Just keep right on dancing</l>
+          <l>What a damn jolly good idea -</l>
+        </lg>
+        <lg>
+          <l>It's such a jollification as a matter of fact, so très charmant, my dear</l>
+        </lg>
+        <lg>
+          <l>Underneath the moonlight</l>
+          <l>Together we'll sail across the sea reminiscing every night (shine on silvery moonlight)</l>
+          <l>Meantime (in the meantime, baby)</l>
+          <l>I ask you to be my Valentine</l>
+        </lg>
+        <lg>
+          <l>You say you'd have to tell your daddy if you can</l>
+          <l>I'll be your Valentino</l>
+          <l>We'll ride upon an omnibus and then the casino</l>
+        </lg>
+        <lg>
+          <l>Get a new facial</l>
+          <l>Start a sensational</l>
+        </lg>
+        <lg>
+          <l>Seaside rendezvous — so adorable,</l>
+          <l>Seaside rendezvous — ooh hoo</l>
+          <l>Seaside rendezvous — give us a kiss</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

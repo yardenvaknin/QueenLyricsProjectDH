@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Good Company song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/goodcompany.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Good Company</title>
+          <author>Writer(s): May Brian Harold</author>
+          <publisher>Album:&quot;A Night At The Opera&quot;</publisher>
+          <date>Album publication year: 1975</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Good Company</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>&quot;Take good care of what you've got,&quot;</l>
+          <l>My father said to me.</l>
+          <l>As he puffed his pipe and Baby B.</l>
+          <l>He dandled on his knee,</l>
+          <l>&quot;Don't fool with fools who'll turn away.</l>
+          <l>Keep all good company.&quot;</l>
+        </lg>
+        <lg>
+          <l>Take care of those you call your own</l>
+          <l>And keep good company</l>
+        </lg>
+        <lg>
+          <l>Soon I grew and happy too</l>
+          <l>My very good friends and me</l>
+          <l>We'd play all day with Sally J.</l>
+          <l>The girl from number four</l>
+          <l>And very soon I begged her, &quot;Won't you keep me company?&quot;</l>
+        </lg>
+        <lg>
+          <l>Come marry me for evermore</l>
+          <l>We'll be good company</l>
+        </lg>
+        <lg>
+          <l>Now marriage is an institution. Sure</l>
+          <l>My wife and I, our needs and nothing more</l>
+          <l>All my friends by a year</l>
+          <l>By and by disappeared</l>
+          <l>But we're safe enough behind our door.</l>
+        </lg>
+        <lg>
+          <l>I flourished in my humble trade</l>
+          <l>My reputation grew</l>
+          <l>The work devoured my waking hours</l>
+          <l>But when my time was through</l>
+          <l>Reward of all my efforts: my own limited company</l>
+        </lg>
+        <lg>
+          <l>I hardly noticed Sally as we parted company</l>
+        </lg>
+        <lg>
+          <l>All through the years</l>
+          <l>In the end it appears</l>
+          <l>There was never really anyone but me</l>
+        </lg>
+        <lg>
+          <l>Now I'm old, I puff my pipe</l>
+          <l>But no one's there to see</l>
+          <l>I ponder on the lesson of my life's insanity</l>
+        </lg>
+        <lg>
+          <l>Take care of those you call your own</l>
+          <l>And keep good company</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
