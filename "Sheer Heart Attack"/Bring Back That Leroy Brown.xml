@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bring Back That Leroy Brown song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/bringbackthatleroybrown.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Bring Back That Leroy Brown</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Sheer Heart Attack&quot;</publisher>
+          <date>Album publication year: 1974</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Bring Back That Leroy Brown</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Bring back bring back bring back that Leroy Brown Yeah!</l>
+          <l>Bring back bring back gotta bring that Leroy Brown back!</l>
+        </lg>
+        <lg>
+          <l>Bet your bottom dollar bill you're a playboy Yeah Yeah!</l>
+          <l>Daddy cool with a ninety dollar smile (ooh Yeah)</l>
+          <l>Took my money out of gratitude</l>
+          <l>And he git right out of town</l>
+          <l>Well I gotta getty up steady up shoot him down</l>
+          <l>Gotta hit that latitude babe</l>
+        </lg>
+        <lg>
+          <l>Bring back bring back bring back that Leroy Brown Yeah!</l>
+          <l>Bring back bring back gotta bring that Leroy Brown Yeah!</l>
+        </lg>
+        <lg>
+          <l>Big bad Leroy Brown he got no common sense</l>
+          <l>No no he got no brains but he sure gotta lot of style</l>
+          <l>Can't stand no more in this here jail</l>
+          <l>I gotta rid myself of this sentence</l>
+          <l>Gotta get out of the heat step into the shade</l>
+          <l>Gotta get me there dead or alive babe</l>
+        </lg>
+        <lg>
+          <l>Wooh, wooh, big bad Leroy, wooh, wooh,</l>
+          <l>Wooh, wooh, big bad Leroy - Brown - well</l>
+        </lg>
+        <lg>
+          <l>Bring back bring back bring back that Leroy Brown Yeah!</l>
+          <l>Bring back bring back gotta bring that Leroy Brown Yeah!</l>
+        </lg>
+        <lg>
+          <l>Big mama Lulu Belle she had a nervous breakdown</l>
+          <l>She had a nervous breakdown</l>
+          <l>Leroy's taken her honey chile away</l>
+          <l>But she met him down at the station</l>
+          <l>Put a shotgun to his head and unless I be mistaken</l>
+          <l>This is what she said</l>
+        </lg>
+        <lg>
+          <l>Big bad big boy big bad Leroy Brown</l>
+          <l>I'm gonna get that cutie pie</l>
+          <l>Bring back bring back bring back that Leroy Brown Yeah!</l>
+          <l>Big bad caused a mighty fine sensation Yeah Yeah!</l>
+          <l>Gone and got himself elected President</l>
+          <l>We want Leroy for President</l>
+        </lg>
+        <lg>
+          <l>Next time you gotta hit a bitty baddy weather</l>
+          <l>This time like a shimmy shammy leather</l>
+          <l>He's a big boy bad boy Leroy</l>
+          <l>I don't care where you get him from</l>
+          <l>Bring that big bad Leroy back</l>
+          <l>Want him back</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
