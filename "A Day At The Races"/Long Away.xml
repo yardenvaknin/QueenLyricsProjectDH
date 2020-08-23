@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Long Away song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/longaway.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Long Away</title>
+          <author>Writer(s): May Brian Harold</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Long Away</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>You might believe in heaven</l>
+          <l>I would not care to say</l>
+          <l>For every star in heaven</l>
+          <l>There's a sad soul here today</l>
+          <l>Wake up in the morning with a good face</l>
+          <l>Stare at the moon all day</l>
+          <l>Lonely as a whisper on a star chase</l>
+          <l>Does anyone care anyway</l>
+          <l>For all the prayers in heaven</l>
+          <l>So much of life's this way</l>
+        </lg>
+        <lg>
+          <l>Did we leave our way behind us</l>
+          <l>Such a long long way behind us</l>
+          <l>Who knows when, now who knows where</l>
+          <l>Where the light of day will find us?</l>
+          <l>Look for the day</l>
+        </lg>
+        <lg>
+          <l>Take heart, my friend, we love you</l>
+          <l>Though it seems like you're alone</l>
+          <l>A million lights above you</l>
+          <l>Smile down upon your home</l>
+          <l>Hurry put your troubles in a suitcase</l>
+          <l>Come let the new child play</l>
+          <l>Lonely as a whisper on a star chase</l>
+          <l>I'm leaving here, I'm long away</l>
+          <l>For all the stars in heaven</l>
+          <l>I would not live</l>
+          <l>I could not live this way</l>
+        </lg>
+        <lg>
+          <l>Did we leave our way behind us</l>
+          <l>Such a long way behind us</l>
+          <l>Leave it for some hopeless lane</l>
+          <l>Such a long long way</l>
+          <l>such a long long way</l>
+          <l>such a long long away</l>
+          <l>I'm looking for</l>
+          <l>Still looking for that day</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,1 +1,98 @@
-
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tie Your Mother Down song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/tieyourmotherdown.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Tie Your Mother Down</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Tie Your Mother Down</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Get your party gown</l>
+          <l>Get your pigtail down</l>
+          <l>Get your heart beatin' baby</l>
+          <l>Got my timin' right</l>
+          <l>Got my act all tight</l>
+          <l>It's gotta be tonight my little</l>
+          <l>Schoolbabe</l>
+        </lg>
+        <lg>
+          <l>Your momma says you don't</l>
+          <l>And your Daddy says you won't</l>
+          <l>And I'm boilin' up inside</l>
+          <l>Ain't no way I'm gonna lose out this time</l>
+        </lg>
+        <lg>
+          <l>Tie your Mother down</l>
+          <l>Tie your Mother down</l>
+          <l>Lock your Daddy out of doors</l>
+          <l>I don't need him nosing around</l>
+          <l>Tie your Mother down</l>
+          <l>Tie your Mother down</l>
+          <l>Give me all your love tonight</l>
+        </lg>
+        <lg>
+          <l>You're such a dirty louse</l>
+          <l>Go get outta my house</l>
+          <l>That's all I ever get from your</l>
+          <l>Family ties, in fact I don't think I ever heard</l>
+          <l>A single little civil word</l>
+          <l>From those guys</l>
+          <l>But you know I don't give a light</l>
+          <l>I'm gonna make out all right</l>
+          <l>I've got a sweetheart hand</l>
+          <l>To put a stop to all that</l>
+          <l>Grousin' an' snipin'</l>
+        </lg>
+        <lg>
+          <l>Tie your Mother down</l>
+          <l>Tie your Mother down</l>
+          <l>Take your little brother swimmin'</l>
+          <l>With a brick (that's all right)</l>
+          <l>Tie your Mother down</l>
+          <l>Tie your Mother down</l>
+          <l>Or you ain't no friend of mine</l>
+        </lg>
+        <lg>
+          <l>Your Momma and your Daddy gonna</l>
+          <l>Plague me til I die</l>
+          <l>Why can't they understand I'm just a</l>
+          <l>Peace lovin' guy</l>
+        </lg>
+        <lg>
+          <l>Tie your Mother down</l>
+          <l>Tie your Mother down</l>
+          <l>Get that big big big big big big Daddy out the doors</l>
+          <l>Tie your Mother down</l>
+          <l>Tie your Mother down</l>
+          <l>Give me all your love tonight</l>
+          <l>All your love tonight</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

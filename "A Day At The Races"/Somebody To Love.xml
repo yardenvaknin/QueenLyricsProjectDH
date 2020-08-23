@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Somebody To Love song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/somebodytolove.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Somebody To Love</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Somebody To Love</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Can anybody find me somebody to love?</l>
+        </lg>
+        <lg>
+          <l>Each morning I get up I die a little</l>
+          <l>Can barely stand on my feet</l>
+          <l>(take a look at yourself)</l>
+          <l>Take a look in the mirror and cry</l>
+          <l>Lord, what you're doing to me</l>
+        </lg>
+        <lg>
+          <l>I have spent all my years in believing you</l>
+          <l>But I just can't get no relief, Lord!</l>
+          <l>Somebody (somebody), somebody (somebody)</l>
+          <l>Can anybody find me somebody to love?</l>
+        </lg>
+        <lg>
+          <l>I work hard (he works hard) every day of my life</l>
+          <l>I work 'til I ache my bones</l>
+          <l>At the end (at the end of the day) I take home (takes home) my hard-earned pay all</l>
+          <l>(goes home on his own) on my own</l>
+        </lg>
+        <lg>
+          <l>I go down (down) on my knees (knees)</l>
+          <l>And I start to pray (praise the Lord)</l>
+          <l>'Til the tears run down from my eyes</l>
+          <l>Lord, somebody (somebody), somebody (please)</l>
+          <l>Can anybody find me somebody to love?</l>
+        </lg>
+        <lg>
+          <l>(he works hard) everyday (everyday)</l>
+          <l>I try, and I try, and I try</l>
+        </lg>
+        <lg>
+          <l>But everybody wants to put me down</l>
+          <l>They say I'm goin' crazy</l>
+          <l>They say I got a lot of water in my brain</l>
+          <l>I got no common sense (he's got)</l>
+          <l>I got nobody left to believe in</l>
+          <l>Yeah, yeah, yeah, yeah</l>
+        </lg>
+        <lg>
+          <l>Oh, Lord</l>
+          <l>Somebody (somebody), somebody (somebody)</l>
+          <l>Can anybody find me somebody to love?</l>
+          <l>(Can anybody find me someone to love)</l>
+        </lg>
+        <lg>
+          <l>Got no feel, I got no rhythm</l>
+          <l>I just keep losing my beat (you just keep losing and losing)</l>
+          <l>I'm OK, I'm alright (he's alright, he's alright)</l>
+          <l>I ain't gonna face no defeat</l>
+          <l>I just gotta get out of this prison cell</l>
+          <l>One day (someday) I'm gonna be free, Lord!</l>
+        </lg>
+        <lg>
+          <l>(Find me somebody to love)</l>
+          <l>(Find me somebody to love)</l>
+          <l>(Find me somebody to love)</l>
+          <l>(Find me somebody to love)</l>
+          <l>Find me, find me</l>
+          <l>(Find me somebody to love)</l>
+          <l>Find</l>
+          <l>(Find me somebody to love)</l>
+          <l>(Find me somebody to love, love, love)</l>
+          <l>Find me, find me</l>
+          <l>(Find me somebody to love)</l>
+          <l>Somebody to love</l>
+          <l>(Find me somebody to love)</l>
+          <l>(Somebody, somebody, somebody, somebody)</l>
+          <l>(Somebody find me, somebody find me somebody to love)</l>
+        </lg>
+        <lg>
+          <l>Can anybody find me somebody to love?</l>
+        </lg>
+        <lg>
+          <l>(Find me somebody to love)</l>
+          <l>(Find me somebody to love)</l>
+          <l>Find me, somebody, somebody</l>
+          <l>(Find me somebody to love)</l>
+          <l>Somebody, somebody to love</l>
+          <l>(Find me somebody to love)</l>
+          <l>Find me, find me, find me, find me, find me</l>
+          <l>(Find me somebody to love)</l>
+          <l>Ooh, somebody to love</l>
+          <l>(Find me somebody to love)</l>
+          <l>Find me, find me, find me somebody to love</l>
+          <l>(Find me somebody to love)</l>
+          <l>Anybody, anywhere, anybody, find me somebody to love</l>
+          <l>Love, love, love, love</l>
+          <l>Find me, find me, find me, yeah</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

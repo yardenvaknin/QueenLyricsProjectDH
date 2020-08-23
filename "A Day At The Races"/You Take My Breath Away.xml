@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>You Take My Breath Away song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/youtakemybreathaway.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">You Take My Breath Away</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>You Take My Breath Away</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Look into my eyes and you'll see</l>
+          <l>I'm the only one</l>
+          <l>You've captured my love</l>
+          <l>Stolen my heart</l>
+          <l>Changed my life</l>
+          <l>Every time you make a move</l>
+          <l>You destroy my mind</l>
+          <l>And the way you touch</l>
+          <l>I lose control and shiver deep inside</l>
+          <l>You take my breath away</l>
+        </lg>
+        <lg>
+          <l>You can reduce me to tears</l>
+          <l>With a single sigh</l>
+          <l>Every breath that you take</l>
+          <l>Any sound that you make</l>
+          <l>Is a whisper in my ear</l>
+          <l>I could give up all my life for just one kiss</l>
+          <l>I would surely die</l>
+          <l>If you dismiss me from your love</l>
+          <l>You take my breath away</l>
+        </lg>
+        <lg>
+          <l>So please don't go</l>
+          <l>Don't leave me here all by myself</l>
+          <l>I get ever so lonely from time to time</l>
+          <l>I will find you</l>
+          <l>Anywhere you go, I'll be right behind you</l>
+          <l>Right until the ends of the earth</l>
+          <l>I'll get no sleep till I find you to tell you</l>
+          <l>That you just take my breath</l>
+          <l>Away</l>
+        </lg>
+        <lg>
+          <l>I will find you</l>
+          <l>Right until the ends of the earth</l>
+          <l>I'll get no sleep til I find you</l>
+          <l>To tell you when I've found you</l>
+          <l>I love you</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

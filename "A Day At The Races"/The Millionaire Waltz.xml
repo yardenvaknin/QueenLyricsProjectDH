@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The Millionaire Waltz song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/themillionairewaltz.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">The Millionaire Waltz</title>
+          <author>Writer(s): Mercury Frederick</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>The Millionaire Waltz</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Bring out the charge of the love brigade</l>
+          <l>There is spring in the air once again</l>
+          <l>Drink to the sound of the song parade</l>
+          <l>There is music and love everywhere</l>
+          <l>Give a little love to me (I want it)</l>
+          <l>Take a little love from me</l>
+          <l>I want to share it with you</l>
+        </lg>
+        <lg>
+          <l>I feel like a millionaire</l>
+        </lg>
+        <lg>
+          <l>Once we were mad, we were happy</l>
+          <l>We spent all our days holding hands together</l>
+          <l>Do you remember, my love</l>
+          <l>How we danced and played</l>
+          <l>In the rain we laid</l>
+          <l>Could stay there, forever and ever</l>
+        </lg>
+        <lg>
+          <l>Now I am sad</l>
+          <l>You are so far away</l>
+          <l>I sit counting the hours day by day</l>
+          <l>Come back to me, how I long for your love</l>
+          <l>Come back to me</l>
+          <l>Be happy like we used to be</l>
+        </lg>
+        <lg>
+          <l>Come back, come back to me</l>
+          <l>Come back, come back to me</l>
+        </lg>
+        <lg>
+          <l>Come back to me, oh my love</l>
+          <l>How I long for your love</l>
+          <l>Won't you come back to me</l>
+        </lg>
+        <lg>
+          <l>My fine friend - take me with you and love me forever</l>
+          <l>My fine friend - forever, forever</l>
+        </lg>
+        <lg>
+          <l>Bring out the charge of the love brigade</l>
+          <l>There is spring in the air once again</l>
+          <l>Drink to the sound of the song parade</l>
+          <l>There is music and love everywhere</l>
+          <l>Give a little love to me (I want it)</l>
+          <l>Take a little love from me,</l>
+          <l>I want to share it with you</l>
+        </lg>
+        <lg>
+          <l>Come back, come back to me, make me feel</l>
+          <l>Make me feel</l>
+          <l>Like a millionaire</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

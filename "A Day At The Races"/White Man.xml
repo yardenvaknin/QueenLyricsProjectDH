@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>White Man song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/whiteman.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">White Man</title>
+          <author>Writer(s): Brian May</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>White Man</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>I'm a simple man</l>
+          <l>With a simple name</l>
+          <l>From this soil my people came</l>
+          <l>In this soil remain</l>
+          <l>Oh yeah. . .</l>
+        </lg>
+        <lg>
+          <l>And we made us our shoes</l>
+          <l>And we trod soft on the land</l>
+          <l>But the immigrant built roads</l>
+          <l>On our blood and sand</l>
+          <l>Oh yeah. . .</l>
+        </lg>
+        <lg>
+          <l>White man, white man</l>
+          <l>Don't you see the light behind your blackened skies</l>
+          <l>White man, white man</l>
+          <l>You took away sight to blind my simple eyes</l>
+          <l>White man, white man</l>
+          <l>Where you gonna hide</l>
+          <l>From the hell you've made?</l>
+        </lg>
+        <lg>
+          <l>Oh the red man knows war</l>
+          <l>With his hands and his knives</l>
+          <l>On the Bible you swore</l>
+          <l>Fought your battle with lies</l>
+          <l>Oh yeah. . .</l>
+        </lg>
+        <lg>
+          <l>Leave my body in shame</l>
+          <l>Leave my soul in disgrace</l>
+          <l>But by every God's name</l>
+          <l>Say your prayers for your race</l>
+        </lg>
+        <lg>
+          <l>White man, white man</l>
+          <l>Our country was green and all our rivers wide</l>
+          <l>White man, white man</l>
+          <l>You came with a gun and soon our children died</l>
+          <l>White man, white man</l>
+          <l>Don't you give a light for the blood you've shed?</l>
+        </lg>
+        <lg>
+          <l>What is left of your dream?</l>
+          <l>Just the words on your stone</l>
+          <l>A man who learned how to teach</l>
+          <l>Then forget how to learn</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

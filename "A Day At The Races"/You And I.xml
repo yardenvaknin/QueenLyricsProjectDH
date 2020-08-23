@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>You And I song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/youandi.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">You And I</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>You And I</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Music is playing in the darkness</l>
+          <l>And a lantern goes swinging by</l>
+          <l>Shadows flickering</l>
+          <l>My heart's jittering</l>
+          <l>Just you and I</l>
+        </lg>
+        <lg>
+          <l>Not tonight</l>
+          <l>Come tomorrow</l>
+          <l>When everything's sunny and bright</l>
+          <l>No no no</l>
+          <l>Come tomorrow</l>
+          <l>'Cause then we'll be waiting for the moonlight</l>
+        </lg>
+        <lg>
+          <l>We'll go walking in the moonlight</l>
+          <l>Walking in the moonlight</l>
+        </lg>
+        <lg>
+          <l>Laughter ringing in the darkness</l>
+          <l>People drinking for days gone by</l>
+          <l>Time don't mean a thing</l>
+          <l>When you're by my side</l>
+          <l>Please stay a while</l>
+        </lg>
+        <lg>
+          <l>You know I never could foresee the future years</l>
+          <l>You know I never could see</l>
+          <l>Where life was leading me</l>
+          <l>But will we be together for ever</l>
+          <l>What will be my love, can't you see that I just don't know, don't know</l>
+        </lg>
+        <lg>
+          <l>No no not tonight</l>
+          <l>Come tomorrow</l>
+          <l>Everything's gonna be sunny and bright</l>
+          <l>Wait and see</l>
+          <l>If tomorrow</l>
+          <l>We'll be as happy as we're feeling tonight</l>
+        </lg>
+        <lg>
+          <l>We'll go walking in the moonlight</l>
+          <l>(Oh, we'll be happy, we'll be happy)</l>
+          <l>Walking in the moonlight</l>
+        </lg>
+        <lg>
+          <l>I can hear the music in the darkness</l>
+          <l>Floating softly to where we lie</l>
+          <l>No more questions now</l>
+          <l>Let's enjoy tonight</l>
+          <l>Just you and I</l>
+          <l>Just you and I</l>
+        </lg>
+        <lg>
+          <l>Just you and I</l>
+          <l>Can't you see that we've gotta be together</l>
+          <l>Be together just you and I</l>
+          <l>No more questions</l>
+          <l>Just you and I</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

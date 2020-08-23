@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Good Old-Fashioned Lover Boy song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/goodoldfashionedloverboy.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Good Old-Fashioned Lover Boy</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Good Old-Fashioned Lover Boy</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>I can dim the lights and sing you songs full of sad things</l>
+          <l>We can do the tango just for two</l>
+          <l>I can serenade and gently play on your heart strings</l>
+          <l>Be your Valentino just for you</l>
+        </lg>
+        <lg>
+          <l>Ooh love, ooh loverboy</l>
+          <l>What're you doin' tonight, hey, boy?</l>
+          <l>Set my alarm, turn on my charm</l>
+          <l>That's because I'm a good old-fashioned loverboy</l>
+        </lg>
+        <lg>
+          <l>Ooh, let me feel your heartbeat (grow faster, faster)</l>
+          <l>Ooh, ooh, can you feel my love heat?</l>
+          <l>Come on and sit on my hot-seat of love</l>
+          <l>And tell me how do you feel right after all</l>
+        </lg>
+        <lg>
+          <l>I'd like for you and I to go romancing</l>
+          <l>Say the word, your wish is my command</l>
+        </lg>
+        <lg>
+          <l>Ooh love, ooh loverboy</l>
+          <l>What're you doin' tonight, hey, boy?</l>
+          <l>Write my letter, feel much better</l>
+          <l>And use my fancy patter on the telephone (Yeah)</l>
+        </lg>
+        <lg>
+          <l>When I'm not with you, think of you always</l>
+          <l>(I miss those long hot summer nights)</l>
+          <l>I miss you</l>
+          <l>When I'm not with you, think of me always</l>
+          <l>Love you, love you</l>
+        </lg>
+        <lg>
+          <l>Hey, boy, where do you get it from?</l>
+          <l>Hey, boy, where did you go?</l>
+          <l>I learned my passion</l>
+          <l>In the good old-fashioned</l>
+          <l>School of loverboys</l>
+        </lg>
+        <lg>
+          <l>Dining at The Ritz we'll meet at nine precisely</l>
+          <l>(one, two, three, four, five, six, seven, eight, nine o'clock)</l>
+          <l>I will pay the bill, you taste the wine</l>
+          <l>Driving back in style, in my saloon will do quite nicely</l>
+          <l>Just take me back to yours that will be fine (come on and get it)</l>
+        </lg>
+        <lg>
+          <l>Ooh love (there he goes again)</l>
+          <l>(he's my good old fashioned loverboy) ooh loverboy</l>
+          <l>What're you doin' tonight, hey, boy?</l>
+          <l>Everything's all right, just hold on tight</l>
+          <l>That's because I'm a good old-fashioned (fashioned) loverboy</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

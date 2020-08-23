@@ -1,0 +1,82 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Teo Torriate (Let Us Cling Together) song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/teotorriateletusclingtogether.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Teo Torriate (Let Us Cling Together)</title>
+          <author>Writer(s): Brian Harold May</author>
+          <publisher>Album:&quot;A Day At The Races&quot;</publisher>
+          <date>Album publication year: 1976</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Teo Torriate (Let Us Cling Together)</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>When I'm gone</l>
+          <l>No need to wonder if I ever think of you</l>
+          <l>The same moon shines</l>
+          <l>The same wind blows</l>
+          <l>For both of us, and time is but a paper moon... be not gone</l>
+        </lg>
+        <lg>
+          <l>Though I'm gone</l>
+          <l>It's just as though I hold the flower that touches you</l>
+          <l>A new life grows</l>
+          <l>The blossom knows</l>
+          <l>There's no one else could warm my heart as much as you... be not gone</l>
+        </lg>
+        <lg>
+          <l>Let us cling together as the years go by</l>
+          <l>Oh my love, my love</l>
+          <l>In the quiet of the night</l>
+          <l>Let our candle always burn</l>
+          <l>Let us never lose the lessons we have learned</l>
+        </lg>
+        <lg>
+          <l>Teo Torriate konomama iko</l>
+          <l>Aisuruhito yo</l>
+          <l>Shizukana yoi ni</l>
+          <l>Hikario tomoshi</l>
+          <l>Itoshiki oshieo idaki</l>
+        </lg>
+        <lg>
+          <l>Hear my song</l>
+          <l>Still think of me the way you've come to think of me</l>
+          <l>The nights grow long</l>
+          <l>But dreams live on</l>
+          <l>Just close your pretty eyes and you can be with me... dream on</l>
+        </lg>
+        <lg>
+          <l>When I'm gone</l>
+          <l>They'd say we're all fools and we don't understand</l>
+          <l>Oh be strong</l>
+          <l>Don't turn your heart</l>
+          <l>We're all</l>
+          <l>You're all</l>
+          <l>For all</l>
+          <l>For always...</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
