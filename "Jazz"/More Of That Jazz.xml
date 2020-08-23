@@ -1,0 +1,70 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>More Of That Jazz song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/moreofthatjazz.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">More Of That Jazz</title>
+          <author>Writer(s): Roger Taylor</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>More Of That Jazz</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>If you're feeling tired and lonely</l>
+          <l>Uninspired and lonely</l>
+          <l>If you're thinking how the days seem long</l>
+          <l>All you're given</l>
+          <l>Is what you've been given a thousand times before</l>
+          <l>Just more more</l>
+          <l>More of that jazz</l>
+          <l>More no more of that jazz</l>
+          <l>Give me no more</l>
+          <l>No more of that jazz</l>
+        </lg>
+        <lg>
+          <l>Only football gives us thrills</l>
+          <l>Rock 'n roll just pays the bills</l>
+          <l>Only our team is the real team</l>
+          <l>Bring out the dogs get on your feet</l>
+          <l>Lie on the floor</l>
+          <l>Kinda thinking I've heard that line before</l>
+          <l>Just more more</l>
+          <l>More of that jazz</l>
+          <l>More no more of that jazz</l>
+          <l>Give me no more no more of that jazz</l>
+        </lg>
+        <lg>
+          <l>Oh no matter fool</l>
+          <l>Get no business hanging around and telling lies</l>
+          <l>Bicycle races are coming your way</l>
+          <l>If you can't beat them join them</l>
+          <l>Fun it</l>
+          <l>Are you gonna let it all hang out?</l>
+          <l>Fat bottomed girls you make the rocking world go round</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Let Me Entertain You song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/letmeentertainyou.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Let Me Entertain You</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Let Me Entertain You</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Let me welcome you ladies and gentlemen</l>
+          <l>I would like to say hello</l>
+          <l>Are you ready for some entertainment?</l>
+          <l>Are you ready for a show?</l>
+          <l>Gonna rock gonna roll you</l>
+          <l>Get you dancing in the aisles</l>
+          <l>Jazz and a razzmatazz you</l>
+          <l>With a little bit of style</l>
+          <l>C'mon let me entertain you</l>
+          <l>Let me entertain you let me entertain you</l>
+        </lg>
+        <lg>
+          <l>I've come here to sell you my body</l>
+          <l>I can show you some good merchandise</l>
+          <l>I'll pull you and pill you</l>
+          <l>I'll crueladeville you</l>
+          <l>And to thrill you I'll use any device</l>
+        </lg>
+        <lg>
+          <l>We'll give you crazy performance</l>
+          <l>We'll give you grounds for divorce</l>
+          <l>We'll give you piece de resistance</l>
+          <l>And a tour de force of course</l>
+        </lg>
+        <lg>
+          <l>We found the right location</l>
+          <l>Got a lot of pretty lights</l>
+          <l>The sound and amplification listen</l>
+          <l>Hey if you need a fix if you want a high</l>
+          <l>Stickells see to that</l>
+          <l>With Elektra and EMI</l>
+          <l>We'll show you where it's at</l>
+          <l>So c'mon</l>
+          <l>Let me entertain you let me entertain you</l>
+          <l>Let me entertain you</l>
+        </lg>
+        <lg>
+          <l>Just take a look at the menu</l>
+          <l>We give you rock a la carte</l>
+          <l>We'll breakfast at Tiffany's</l>
+          <l>We'll sing to you in Japanese</l>
+          <l>We're only here to entertain you</l>
+        </lg>
+        <lg>
+          <l>If you wanna see some action</l>
+          <l>You get nothing but the best</l>
+          <l>The S and M attraction</l>
+          <l>We've got the pleasure chest</l>
+          <l>Chicago and New Orleans</l>
+          <l>We get you on the line</l>
+          <l>If you dig the New York scene</l>
+          <l>We'll have a son of a bitch of a time</l>
+          <l>C'mon</l>
+          <l>Let me entertain you let me entertain you</l>
+          <l>Let me entertain you tonight</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

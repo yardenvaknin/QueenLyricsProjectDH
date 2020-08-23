@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dead On Time song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/deadontime.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Dead On Time</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Dead On Time</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Fool always jumping never happy where you land</l>
+          <l>Fool got my bus'ness make your living where you can</l>
+          <l>Hurry down the highway</l>
+          <l>Hurry down the road</l>
+          <l>Hurry past the people staring</l>
+          <l>Hurry hurry hurry hurry</l>
+        </lg>
+        <lg>
+          <l>Leave on time leave on time</l>
+          <l>Never got your ticket but you leave on time</l>
+          <l>Leave on time leave on time</l>
+          <l>Gonna get your ticket but you leave on time</l>
+          <l>Put it in your pocket but you never can tell</l>
+        </lg>
+        <lg>
+          <l>Leave on time leave on time</l>
+          <l>Shake that rattle gonna leave on time</l>
+          <l>Leave on time leave on time</l>
+          <l>Fight your battle but you leave on time</l>
+          <l>Leave on time leave on time</l>
+          <l>Never got a minute no you never got a minute</l>
+          <l>No you never never got on no matter</l>
+        </lg>
+        <lg>
+          <l>Fool got no bus'ness hanging round and telling lies</l>
+          <l>Fool you got no reasons but you got no compromise</l>
+          <l>Stamping</l>
+          <l>Gotta get out gotta get out gotta get out</l>
+          <l>Oh you know I'm going crazy</l>
+        </lg>
+        <lg>
+          <l>Leave on time leave on time</l>
+          <l>Gotta get ahead but you leave on time</l>
+          <l>Leave on time leave on time</l>
+          <l>Gonna head on ahead but you leave on time</l>
+          <l>Leave on time leave on time</l>
+          <l>You're running in the red but you never can tell</l>
+        </lg>
+        <lg>
+          <l>Leave on time leave on time</l>
+          <l>Gotta get rich gonna leave on time</l>
+          <l>Leave on time leave on time</l>
+          <l>But you can't take it with you when you leave on time</l>
+          <l>Leave on time leave on time</l>
+          <l>Got to keep yourself alive gotta leave on time</l>
+          <l>Gotta leave on time leave on time</l>
+          <l>Dead on time</l>
+          <l>'You're Dead'</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

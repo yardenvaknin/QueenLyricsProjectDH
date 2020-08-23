@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bicycle Race song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/bicyclerace.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Bicycle Race</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Bicycle Race</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Bicycle bicycle bicycle</l>
+          <l>I want to ride my bicycle bicycle bicycle</l>
+          <l>I want to ride my bicycle</l>
+          <l>I want to ride my bike</l>
+          <l>I want to ride my bicycle</l>
+          <l>I want to ride it where I like</l>
+        </lg>
+        <lg>
+          <l>You say &quot;black&quot;, I say &quot;white&quot;</l>
+          <l>You say &quot;bark&quot;, I say &quot;bite&quot;</l>
+          <l>You say &quot;shark&quot;, I say &quot;Hey man,</l>
+          <l>Jaws was never my scene</l>
+          <l>And I don't like Star Wars!&quot;</l>
+        </lg>
+        <lg>
+          <l>You say &quot;Rolls&quot;, I say &quot;Royce&quot;</l>
+          <l>You say &quot;God&quot; - Give me a choice!</l>
+          <l>You say &quot;Lord&quot;, I say &quot;Christ!&quot;</l>
+          <l>I don't believe in Peter Pan,</l>
+          <l>Frankenstein or Superman</l>
+          <l>All I wanna do is</l>
+        </lg>
+        <lg>
+          <l>Bicycle bicycle bicycle</l>
+          <l>I want to ride my bicycle bicycle bicycle</l>
+          <l>I want to ride my bicycle</l>
+          <l>I want to ride my bike</l>
+          <l>I want to ride my bicycle</l>
+          <l>I want to ride my</l>
+        </lg>
+        <lg>
+          <l>Bicycle races are coming your way</l>
+          <l>So forget all your duties oh yeah!</l>
+          <l>Fat-bottomed girls they'll be riding today</l>
+          <l>So look out for those beauties oh yeah</l>
+        </lg>
+        <lg>
+          <l>On your marks get set go</l>
+        </lg>
+        <lg>
+          <l>Bicycle race bicycle race bicycle race</l>
+          <l>Bicycle bicycle bicycle</l>
+          <l>I want to ride my bicycle bicycle bicycle bicycle</l>
+          <l>(I want a)</l>
+          <l>Bicycle race</l>
+        </lg>
+        <lg>
+          <l>You say &quot;coke&quot;, I say &quot;caine&quot;</l>
+          <l>You say &quot;John&quot;, I say &quot;Wayne&quot;</l>
+          <l>&quot;Hot dog&quot;, I say, &quot;Cool it, man&quot;</l>
+          <l>I don't wanna be the President of America</l>
+        </lg>
+        <lg>
+          <l>You say &quot;smile&quot;, I say &quot;cheese&quot;</l>
+          <l>&quot;Cartier&quot;, I say, &quot;Please&quot;</l>
+          <l>&quot;Income tax&quot;, I say &quot;Jesus!&quot;</l>
+          <l>I don't wanna be a candidate</l>
+          <l>For Vietnam or Watergate</l>
+          <l>'Cause all I want to do is</l>
+        </lg>
+        <lg>
+          <l>Bicycle bicycle bicycle</l>
+          <l>I want to ride my bicycle, bicycle (c'mon), bicycle</l>
+          <l>I want to ride my bicycle</l>
+          <l>I want to ride my bike</l>
+          <l>I want to ride my bicycle</l>
+          <l>I want to ride it where I like</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

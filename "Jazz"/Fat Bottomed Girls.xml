@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fat Bottomed Girls song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/fatbottomedgirls.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Fat Bottomed Girls</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Fat Bottomed Girls</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Ah you gonna take me home tonight</l>
+          <l>Ah down beside that red fire light</l>
+          <l>Ah you gonna let it all hang out</l>
+          <l>Fat bottomed girls you make the rocking world go round</l>
+        </lg>
+        <lg>
+          <l>Hey I was just a skinny lad</l>
+          <l>Never knew no good from bad</l>
+          <l>But I knew life before I left my nursery (huh)</l>
+          <l>Left alone with big fat Fanny</l>
+          <l>She was such a naughty nanny</l>
+          <l>Heap big woman, you made a bad boy out of me</l>
+        </lg>
+        <lg>
+          <l>Hey hey!</l>
+        </lg>
+        <lg>
+          <l>I've been singing with my band</l>
+          <l>Across the water, across the land</l>
+          <l>I've seen every blue eyed floozy on the way (hey)</l>
+          <l>But their beauty and their style</l>
+          <l>Went kind of smooth after a while</l>
+          <l>Take me to them dirty ladies every time</l>
+        </lg>
+        <lg>
+          <l>C'mon!</l>
+        </lg>
+        <lg>
+          <l>Ah, won't you take me home tonight?</l>
+          <l>Ah, down beside your red fire light</l>
+          <l>Ah, and you give it all you got</l>
+          <l>Fat bottomed girls you make the rocking world go round</l>
+          <l>Fat bottomed girls you make the rocking world go round</l>
+        </lg>
+        <lg>
+          <l>Hey, listen here</l>
+          <l>Now I got mortgages and homes</l>
+          <l>I got stiffness in the bones</l>
+          <l>Ain't no beauty queens in this locality (I tell you)</l>
+          <l>Oh, but I still get my pleasure</l>
+          <l>Still got my greatest treasure</l>
+          <l>Heap big woman you done made a big man of me (now get this)</l>
+        </lg>
+        <lg>
+          <l>Oh (I know), you gonna take me home tonight (please)</l>
+          <l>Oh, down beside that red fire light</l>
+          <l>Oh, you gonna let it all hang out</l>
+          <l>Fat bottomed girls you make the rocking world go round (yeah)</l>
+          <l>Fat bottomed girls you make the rocking world go round</l>
+        </lg>
+        <lg>
+          <l>Get on your bikes and ride</l>
+        </lg>
+        <lg>
+          <l>Ooh, yeah, oh, yeah, them fat bottomed girls</l>
+          <l>Fat bottomed girls, yeah, yeah, yeah</l>
+          <l>Allright</l>
+          <l>Ride 'em come on</l>
+          <l>Fat bottomed girls</l>
+          <l>Yeah, yeah, right</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

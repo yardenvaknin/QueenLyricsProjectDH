@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mustapha song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/mustapha.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Mustapha</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Mustapha</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Ibrahim, Ibrahim, Ibrahim,</l>
+          <l>Allah, Allah, Allah, Allah we'll pray for you.</l>
+          <l>Hey!</l>
+        </lg>
+        <lg>
+          <l>Mustapha, Mustapha, Mustapha Ibrahim.</l>
+          <l>Mustapha, Mustapha, Mustapha Ibrahim.</l>
+        </lg>
+        <lg>
+          <l>Mustapha Ibrahim, Mustapha Ibrahim</l>
+          <l>Allah, Allah, Allah we'll pray for you.</l>
+        </lg>
+        <lg>
+          <l>Mustapha Ibrahim, al havra kris vanin</l>
+          <l>Allah, Allah, Allah we'll pray for you.</l>
+          <l>Mustapha, hey! Mustapha</l>
+          <l>Mustapha Ibrahim, Mustapha Ibrahim, hey!</l>
+        </lg>
+        <lg>
+          <l>Allah-i, Allah-i, Allah-i,</l>
+          <l>Ibra-Ibra-Ibrahim, yeah!</l>
+          <l>Ibrahim, Ibrahim, Ibrahim,</l>
+          <l>Allah Allah Allah-i hey!</l>
+        </lg>
+        <lg>
+          <l>Mustapha Mustapha - Allah-i na stolei</l>
+          <l>Mustapha Mustapha - Achtar es na sholei</l>
+          <l>Mustapha Mustapha - Mochamut dei ya low eshelei</l>
+          <l>Mustapha Mustapha - ai ai ai ai ahelei</l>
+          <l>Mustapha,</l>
+          <l>Mustapha,</l>
+          <l>Ist avil ahiln avil ahiln adhim Mustapha,</l>
+          <l>Salaam Aleikum!</l>
+        </lg>
+        <lg>
+          <l>Mustapha Ibrahim, Mustapha Ibrahim</l>
+          <l>Allah, Allah, Allah we'll pray for you.</l>
+        </lg>
+        <lg>
+          <l>Mustapha Ibrahim, achbar ish navin</l>
+          <l>Allah, Allah, Allah we'll pray for you.</l>
+          <l>Mustapha, Mustapha</l>
+          <l>Mustapha Ibrahim, Mustapha Ibrahim, hey!</l>
+        </lg>
+        <lg>
+          <l>Allah-i, Allah-i, Allah-i,</l>
+          <l>Ibra-Ibra-Ibrahim, yeah!</l>
+          <l>Ibrahim, Ibrahim, Ibrahim,</l>
+          <l>Allah Allah Allah-i hey!</l>
+        </lg>
+        <lg>
+          <l>Mustapha Mustapha</l>
+          <l>Mustapha Mustapha</l>
+          <l>Mustapha Mustapha</l>
+          <l>Mustapha Mustapha</l>
+          <l>Mustapha,</l>
+          <l>Mustapha,</l>
+          <l>Vontap ist ahiln avil ahiln adhim Mustapha,</l>
+          <l>Aleikum Salaam hey!</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

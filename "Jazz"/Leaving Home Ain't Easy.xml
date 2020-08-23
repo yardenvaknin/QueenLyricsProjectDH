@@ -1,0 +1,78 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Leaving Home Ain't Easy song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/leavinghomeainteasy.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Leaving Home Ain't Easy</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Leaving Home Ain't Easy</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>I take a step outside</l>
+          <l>And I breathe the air</l>
+          <l>And I slam the door</l>
+          <l>And I'm on my way</l>
+          <l>I won't lay no blame</l>
+          <l>I won't call you names</l>
+          <l>'Cause I've made my break</l>
+          <l>And I won't look back</l>
+          <l>I've turned my back</l>
+          <l>On those endless games</l>
+        </lg>
+        <lg>
+          <l>I'm all through with ties</l>
+          <l>I'm all tired of tears</l>
+          <l>I'm a happy man</l>
+          <l>Don't it look that way?</l>
+          <l>Shaking dust from my shoes</l>
+          <l>There's a road ahead</l>
+          <l>And there's no way back home</l>
+          <l>Ohh but I have</l>
+          <l>Leaving home ain't easy</l>
+          <l>Oh I never thought it would be easy</l>
+          <l>Leaving on your own</l>
+          <l>Oh is the main thing calling me back?</l>
+          <l>Leaving home ain't easy</l>
+          <l>On the one your leaving home</l>
+        </lg>
+        <lg>
+          <l>Stay my love my love please stay</l>
+          <l>Stray my love what's wrong my love?</l>
+          <l>What's right my love?</l>
+          <l>Ohh leaving home ain't easy</l>
+          <l>I thought how could I think of leaving</l>
+          <l>Leaving on your own</l>
+          <l>Still trying to persuade me that</l>
+          <l>Leaving home ain't necessary</l>
+          <l>Leave the only way</l>
+          <l>Leaving home ain't easy</l>
+          <l>But may be the only way</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

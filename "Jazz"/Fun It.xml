@@ -1,1 +1,76 @@
-
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Fun It song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/funit.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Fun It</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Fun It</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Everybody in the morning</l>
+          <l>Should do a good turn all right</l>
+          <l>Everybody in the night time</l>
+          <l>Should have a good time all night</l>
+          <l>Now we got a movement</l>
+          <l>Don't shun it fun it</l>
+          <l>Can't you see now you're moving free?</l>
+          <l>Get some fun join our dynasty</l>
+          <l>Can't you tell when we get it down?</l>
+          <l>You're the one you're the best in town</l>
+        </lg>
+        <lg>
+          <l>Hey everybody everybody gonna have a good time tonight</l>
+          <l>Just shaking the soles of your feet</l>
+          <l>Everybody everybody gonna have a good time tonight</l>
+          <l>That's the only soul you'll ever meet</l>
+        </lg>
+        <lg>
+          <l>They say that moving the body's right it's all right</l>
+          <l>That's the only one part of being alive all right all right</l>
+        </lg>
+        <lg>
+          <l>Groove on out groove on up OK</l>
+          <l>Do your thing do your thing your wa</l>
+          <l>Get you kicks get your tricks with me</l>
+          <l>Get up and dance honey fun's for free</l>
+        </lg>
+        <lg>
+          <l>Hey everybody everybody gonna have a good time tonight</l>
+          <l>Just shaking the soles of your feet</l>
+          <l>Everybody everybody gonna have a good time tonight</l>
+          <l>That's the only sole you'll ever meet</l>
+        </lg>
+        <lg>
+          <l>Don't shun it fun it</l>
+          <l>Don't shun it fun it</l>
+          <l>Don't shun it fun it</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

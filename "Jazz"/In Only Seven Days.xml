@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>In Only Seven Days song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/inonlysevendays.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">In Only Seven Days</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>In Only Seven Days</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Monday,</l>
+          <l>Start of my holiday.</l>
+          <l>Freedom for just one week.</l>
+          <l>Feels good to get away.</l>
+        </lg>
+        <lg>
+          <l>Tuesday,</l>
+          <l>Saw her down on the beach.</l>
+          <l>I stood and watched a while,</l>
+          <l>And she looked and smiled at me.</l>
+        </lg>
+        <lg>
+          <l>Wednesday,</l>
+          <l>I didn't see her.</l>
+          <l>I hoped that she'd be back tomorrow.</l>
+        </lg>
+        <lg>
+          <l>And then on Thursday</l>
+          <l>My luck had changed.</l>
+          <l>She stood there all alone,</l>
+          <l>I went and asked her name.</l>
+        </lg>
+        <lg>
+          <l>I never thought that this could happen to me</l>
+          <l>In only seven days.</l>
+          <l>It would take a hundred or more</l>
+          <l>For memories to fade.</l>
+        </lg>
+        <lg>
+          <l>I wish Friday would last forever.</l>
+          <l>I held her close to me.</l>
+          <l>I couldn't bear to leave her there.</l>
+        </lg>
+        <lg>
+          <l>Saturday, just twenty four hours.</l>
+          <l>Oh, no, I'm going back home on Sunday.</l>
+          <l>I'm so sad alone.</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

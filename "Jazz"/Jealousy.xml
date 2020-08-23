@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Jealousy song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/jealousy.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Jealousy</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Jealousy</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Oh how wrong can you be?</l>
+          <l>Oh to fall in love was my very first mistake</l>
+          <l>How was I to know I was far too much in love to see?</l>
+          <l>Oh jealousy look at me now</l>
+          <l>Jealousy you got me somehow</l>
+          <l>You gave me no warning</l>
+          <l>Took me by surprise</l>
+          <l>Jealousy you led me on</l>
+          <l>You couldn't lose you couldn't fail</l>
+          <l>You had suspicion on my trail</l>
+        </lg>
+        <lg>
+          <l>How how how all my jealousy</l>
+          <l>I wasn't man enough to let you hurt my pride</l>
+          <l>Now I'm only left with my own jealousy</l>
+        </lg>
+        <lg>
+          <l>Oh how strong can you be</l>
+          <l>With matters of the heart?</l>
+          <l>Life is much too short</l>
+          <l>To while away with tears</l>
+          <l>If only you could see just what you do to me</l>
+          <l>Oh jealousy you tripped me up</l>
+          <l>Jealousy you brought me down</l>
+          <l>You bring me sorrow you cause me pain</l>
+          <l>Jealousy when will you let go?</l>
+          <l>Gotta hold of my possessive mind</l>
+          <l>Turned me into a jealous kind</l>
+        </lg>
+        <lg>
+          <l>How how how all my jealousy</l>
+          <l>I wasn't man enough to let you hurt my pride</l>
+          <l>Now I'm only left with my own jealousy</l>
+          <l>But now it matters not if I should live or die</l>
+          <l>'Cause I'm only left with my own jealousy</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>If You Can't Beat Them song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/ifyoucantbeatthem.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">If You Can't Beat Them</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>If You Can't Beat Them</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Keep your chin up when you're feeling lonely</l>
+          <l>Don't let them get you down</l>
+          <l>Ain't no use in sitting all alone</l>
+          <l>Hangin' around for someone to call</l>
+          <l>Ohh they won't come knocking at all</l>
+          <l>Don't run and hide even if it hurts you inside</l>
+          <l>So I said give as good as you get</l>
+        </lg>
+        <lg>
+          <l>If you can't beat them join them</l>
+          <l>You better do it 'cause it makes you feel good</l>
+          <l>If you can't beat them join them</l>
+          <l>You're never gonna help yourself</l>
+        </lg>
+        <lg>
+          <l>Come on go get up, hey</l>
+          <l>Sure feels good</l>
+        </lg>
+        <lg>
+          <l>Keep your big hands off of my money</l>
+          <l>Don't try and pull me down</l>
+          <l>You're taking me out to wine and dine me</l>
+          <l>Trying to wind me round and around</l>
+          <l>And bind me to your little contract Ha! Ha!</l>
+          <l>Rumour has it that you could it play dirty</l>
+          <l>I tell you what I'll do about that, that yeah</l>
+          <l>I'll play you at your own game</l>
+        </lg>
+        <lg>
+          <l>If you can't beat them join them</l>
+          <l>You better do it 'cause it makes you feel good</l>
+          <l>If you can't beat them join them</l>
+          <l>You're never gonna help yourself</l>
+        </lg>
+        <lg>
+          <l>That's good play it again</l>
+        </lg>
+        <lg>
+          <l>If you can't beat them join them</l>
+          <l>You better do it 'cause it makes you feel good</l>
+          <l>If you can't beat them join them</l>
+          <l>It's everyone for themselves</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>

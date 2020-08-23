@@ -1,0 +1,79 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Dreamer's Ball song</title>
+        <respStmt>
+          <resp>Compiled by:</resp>
+          <name>Yarden Vaknin</name>
+          <name>Alex Mongait</name>
+          <orgName ref="https://www.cs.bgu.ac.il/~dhcs202/Main">Ben Gurion University ,Digital Humanities course by Dr. Yael Netzer</orgName>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Publisher: AZlyrics</publisher>
+        <pubPlace ref="https://www.azlyrics.com/lyrics/queen/dreamersball.html"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>
+          <title level="j">Dreamer's Ball</title>
+          <author>Writer(s): Freddie Mercury</author>
+          <publisher>Album:&quot;Jazz&quot;</publisher>
+          <date>Album publication year: 1978</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="heading">
+        <head>Dreamer's Ball</head>
+      </div>
+      <div type="lyrics">
+        <lg>
+          <l>Oh I used to be your baby</l>
+          <l>Used to be your pride and joy</l>
+          <l>You used to take me dancing</l>
+          <l>Just like any other boy</l>
+          <l>But now you've found another partner</l>
+          <l>You've left me like a broken toy</l>
+        </lg>
+        <lg>
+          <l>Oh it's someone else you're taking</l>
+          <l>Someone else you're playing to</l>
+          <l>Honey though I'm aching</l>
+          <l>Know just what I have to do</l>
+          <l>If I can't have you when I'm waking</l>
+          <l>I'll go to sleep and dream I'm with you</l>
+        </lg>
+        <lg>
+          <l>Oh take me take me take me</l>
+          <l>To the dreamer's ball</l>
+          <l>I'll be right on time and I'll dress so fine</l>
+          <l>You're gonna love me when you see me</l>
+          <l>I won't have to worry</l>
+          <l>Take me, take me</l>
+          <l>Promise not to wake me</l>
+          <l>'Till it's morning</l>
+          <l>It's all been true</l>
+        </lg>
+        <lg>
+          <l>Oh take me take me take me</l>
+          <l>I'm your play thing now</l>
+          <l>You make my life worthwhile</l>
+          <l>With the slightest smile</l>
+          <l>Or destroy me with a barely perceptible whisper</l>
+          <l>Gently take me remember I'll be dreaming of my baby</l>
+          <l>At the dreamer's ball</l>
+        </lg>
+        <lg>
+          <l>Take me hold me</l>
+          <l>Remember what you told me</l>
+          <l>You'd meet me at the dreamer's ball</l>
+          <l>I'll meet you at the dreamer's ball</l>
+        </lg>
+      </div>
+    </body>
+  </text>
+</TEI>
