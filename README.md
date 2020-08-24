@@ -15,3 +15,16 @@ We created automatically HTMl files and added to then the XML's TEI and style.
 Our goal was to convert unstructured data to semi-structured data , as we learned in the course.
 
 We tagged the data in the XML file and considered the content, structure and form of the songs.
+
+Link to Website project on Wix:
+https://digitalhumanitiesp5.wixsite.com/queendhproject
+
+### Main Goals of our project:
+ 
+1. Collect the Metadata from the songs 
+2. Build an automatic system for generating HTML & XML files and gathering information
+3. Build a website to display HTML files
+
+ 
+Link to HTMLS files website we build in Firebase platform:
+https://yardenv-79fcf.firebaseapp.com/
