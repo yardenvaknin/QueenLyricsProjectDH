@@ -33,7 +33,8 @@ def creatXmlsFiles(soup,num):
     count = 0
     #iterates over all the alnbums and create xml file for each song.
     for i in listalbum:
-        if (count < num and count != 170) :
+        if(count >= 0 and count <= num): 
+        #if (count < num and count != 170) :
             song_name = i.findAll(text=True)[0]
             href_song = i.find('a')
             href_url = href_song.get('href')
@@ -114,5 +115,5 @@ def createSongXml(url,songName,count):
     createFile(path,songName,albumName,fixLyrics(lyrics),writer,yearOfAlbum,url)
 
 #this is the main function 
-creatSongsFiles("https://www.azlyrics.com/q/queen.html",dict,10)
+creatSongsFiles("https://www.azlyrics.com/q/queen.html",dict,7)
 
