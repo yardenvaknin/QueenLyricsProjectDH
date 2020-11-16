@@ -10,7 +10,7 @@ We created Extensible Markup Language (XML) document that describes the structur
 We used Oxygen software as a tool to verify the correctness of  the XML's files.
 
 We added to each song TEI with the metadata.
-We created automatically HTMl files and added to then the XML's TEI and style.
+We created automatically HTML files and added to then the XML's TEI and style.
 
 Our goal was to convert unstructured data to semi-structured data , as we learned in the course.
 
